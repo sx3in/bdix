@@ -1,7 +1,37 @@
 #EXTM3U
 #EXTINF:0,BTV
 #EXTGRP:Entertainment
-http://103.102.27.172:6464/Channel-1/index.m3u8
+http://172.16.50.22/live/sambd1001/index.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/btvworld.m3u8
+#EXTINF:0,Sangsad Television
+#EXTGRP:Infotainment
+http://103.102.27.172:6464/Channel-2/index.m3u8
+#EXTINF:0,BTV Chattogram
+#EXTGRP:Entertainment
+http://103.102.27.172:6464/Channel-3/index.m3u8
+#EXTINF:0,ATN Bangla
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/atnbangla.m3u8
+#EXTINF:0,Channel I
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/ichannel.m3u8
+#EXTINF:0,Ekushey TV
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/ekushey.m3u8
+#EXTINF:0,Ntv
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/ntv.m3u8
+#EXTINF:0,Rtv
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/rtv.m3u8
+#EXTINF:0,Boishakhi TV
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/boisakhi.m3u8
+#EXTINF:0,Banglavision
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/banglavision.m3u8
+#EXTINF:0,Desh TV
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/deshtv.m3u8
