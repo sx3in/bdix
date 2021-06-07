@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:0,BTV
 #EXTGRP:Entertainment
-http://172.16.50.22/live/sambd1001/index.m3u8
+http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/btvworld.m3u8
-#EXTINF:0,Sangsad Television
+#EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Infotainment
 http://103.102.27.172:6464/Channel-2/index.m3u8
 #EXTINF:0,BTV Chattogram
@@ -35,3 +35,24 @@ http://103.205.133.21/hls/banglavision.m3u8
 #EXTINF:0,Desh TV
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/deshtv.m3u8
+#EXTINF:0,My TV
+#EXTGRP:Movies
+http://103.205.133.21/hls/mytv.m3u8
+#EXTINF:0,My TV
+#EXTGRP:News
+http://103.205.133.21/hls/atnnews.m3u8
+#EXTINF:0,Mohona TV
+#EXTGRP:Movies
+http://103.205.133.21/hls/mohonatv.m3u8
+#EXTINF:0,Bijoy TV
+#EXTGRP:Movies
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:0,Somoy TV
+#EXTGRP:News
+http://103.205.133.21/hls/somoy.m3u8
+#EXTINF:0,Independent TV
+#EXTGRP:News
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:0,Maaranga TV
+#EXTGRP:Entertainment
+http://tv2.ebox.live:8080/live/maasranga.m3u8
