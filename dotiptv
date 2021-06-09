@@ -103,7 +103,43 @@ http://103.205.133.21/hls/nagorik.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Sports
-http://172.16.50.2:8081/live/gazi/playlist.m3u8
-#EXTINF:0,Live Sports
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:0,T Sports 2
 #EXTGRP:Sports
-http://172.16.50.22/live/sambd1001/index.m3u8
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:0,Sony Aath
+#EXTGRP:Entertainment
+http://cdn.naturalbd.com:8083/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:0,ABP Ananda
+#EXTGRP:News
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
+#EXTINF:0,News18 Bangla
+#EXTGRP:News
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_2_av-p.m3u8
+#EXTINF:0,AKD Calcutta News
+#EXTGRP:News
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
+#EXTINF:0,Assam Talks
+#EXTGRP:News
+https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+#EXTINF:0,Odisha TV
+#EXTGRP:News
+https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/chunklist_w1100003273_b200000.m3u8
+#EXTINF:0,NDTV 24x7
+#EXTGRP:News
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:0,CNBC TV18
+#EXTGRP:News
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0,Sony SIX
+#EXTGRP:Sports
+http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony TEN1
+#EXTGRP:Sports
+http://cdn.naturalbd.com:8083/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony TEN2
+#EXTGRP:Sports
+http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony TEN3
+#EXTGRP:Sports
+http://cdn.naturalbd.com:8083/SonyTen3/tracks-v1a1/mono.m3u8
