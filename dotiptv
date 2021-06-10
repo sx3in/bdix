@@ -64,7 +64,7 @@ http://103.205.133.21/hls/ninechannel.m3u8
 http://103.205.133.21/hls/channel24.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:News
 http://103.205.133.21/hls/ekatoortv.m3u8
@@ -119,6 +119,12 @@ http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:0,Zee Bangla Cinema
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:0,Star Jalsha Movies
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Music
 http://103.205.133.21/hls/sangeetbangla.m3u8
@@ -137,6 +143,9 @@ https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chu
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chs.m3u8
+#EXTINF:0,SAB
+#EXTGRP:Entertainment
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chsp.m3u8
@@ -146,14 +155,17 @@ http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chc.m3u8
-#EXTINF:0,ARY Digital
-#EXTGRP:Entertainment
-https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
-#EXTINF:0,Rupavahini
-#EXTGRP:Entertainment
-http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w1969321617.m3u8
+#EXTINF:0,Star Gold Select
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:0,MAX
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:0,Zee Cinema
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,WOW Movies
-#EXTGRP:Entertainment
+#EXTGRP:Movies
 http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
@@ -167,16 +179,31 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:0,CNBC TV18
 #EXTGRP:News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:0,Music Top
-#EXTGRP:Music
-http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1262530868.m3u8
+#EXTINF:0,PIX
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:0,HBO
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF:0,Nick
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:0,Discovery
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:0,CNN
 #EXTGRP:News
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:0,Aljazeera 
 #EXTGRP:News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0,DW
+#EXTINF:0,Deutsche Welle
 #EXTGRP:News
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0,NHK World
@@ -187,16 +214,19 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/sony6_techohat_hd.m3u8
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
-http://10.16.100.207:8082/sports/sportst.m3u8
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
 http://10.16.100.207:8082/sports/s_sports1_onestop.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
 http://103.205.133.21/hls/chss2.m3u8
+#EXTINF:0,Star Sports 3
+#EXTGRP:Sports
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:0,Sony SIX
 #EXTGRP:Sports
 http://10.16.100.203:8082/bangla/sony6_techohat_hd.m3u8
@@ -208,4 +238,16 @@ http://103.205.133.21/hls/ten1.m3u8
 http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 #EXTINF:0,Sony TEN3
 #EXTGRP:Sports
-http://cdn.naturalbd.com:8083/SonyTen3/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:0,Ten Sports
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:0,PTV Sports
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:0,Willow Cricket
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
