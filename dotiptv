@@ -146,6 +146,12 @@ http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chc.m3u8
+#EXTINF:0,ARY Digital
+#EXTGRP:Entertainment
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arydigital/stream1/chunks.m3u8
+#EXTINF:0,Rupavahini
+#EXTGRP:Entertainment
+http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w1969321617.m3u8
 #EXTINF:0,WOW Movies
 #EXTGRP:Entertainment
 http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
@@ -173,6 +179,12 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,DW
 #EXTGRP:News
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:0,NHK World
+#EXTGRP:News
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0,Arirang World
+#EXTGRP:News
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
 http://10.16.100.203:8082/bangla/sony6_techohat_hd.m3u8
