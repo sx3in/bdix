@@ -103,43 +103,97 @@ http://103.205.133.21/hls/nagorik.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Sports
-http://10.16.100.207:8082/sports/sportst.m3u8
-#EXTINF:0,T Sports 2
-#EXTGRP:Sports
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:0,Zee Bangla
+#EXTGRP:Entertainment
+http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+#EXTINF:0,Star Jalsha
+#EXTGRP:Entertainment
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+#EXTINF:0,Colors Bangla
+#EXTGRP:Entertainment
+http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:0,Akash Aath
+#EXTGRP:Entertainment
+http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
-http://cdn.naturalbd.com:8083/SonyAath/tracks-v1a1/mono.m3u8
+http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:0,Sangeet Bangla
+#EXTGRP:Music
+http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:0,ABP Ananda
 #EXTGRP:News
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
 #EXTINF:0,News18 Bangla
 #EXTGRP:News
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_2_av-p.m3u8
-#EXTINF:0,AKD Calcutta News
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:0,Calcutta News
 #EXTGRP:News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 #EXTINF:0,Assam Talks
 #EXTGRP:News
 https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
-#EXTINF:0,Odisha TV
-#EXTGRP:News
-https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/chunklist_w1100003273_b200000.m3u8
+#EXTINF:0,SET
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/chs.m3u8
+#EXTINF:0,Star Plus
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/chsp.m3u8
+#EXTINF:0,Zee TV
+#EXTGRP:Entertainment
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+#EXTINF:0,Colors
+#EXTGRP:Entertainment
+http://103.205.133.21/hls/chc.m3u8
+#EXTINF:0,WOW Movies
+#EXTGRP:Entertainment
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+#EXTINF:0,Mastiii
+#EXTGRP:Music
+http://10.16.100.207:8082/sports/mtuness.m3u8
+#EXTINF:0,9XM
+#EXTGRP:Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,NDTV 24x7
 #EXTGRP:News
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:0,CNBC TV18
 #EXTGRP:News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0,Music Top
+#EXTGRP:Music
+http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1262530868.m3u8
+#EXTINF:0,CNN
+#EXTGRP:News
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:0,Aljazeera 
+#EXTGRP:News
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0,DW
+#EXTGRP:News
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:0,Star Sports Select 1
+#EXTGRP:Sports
+http://10.16.100.203:8082/bangla/sony6_techohat_hd.m3u8
+#EXTINF:0,Star Sports Select 2
+#EXTGRP:Sports
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:0,Star Sports 1
+#EXTGRP:Sports
+http://10.16.100.207:8082/sports/s_sports1_onestop.m3u8
+#EXTINF:0,Star Sports 2
+#EXTGRP:Sports
+http://103.205.133.21/hls/chss2.m3u8
 #EXTINF:0,Sony SIX
 #EXTGRP:Sports
-http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
+http://10.16.100.203:8082/bangla/sony6_techohat_hd.m3u8
 #EXTINF:0,Sony TEN1
 #EXTGRP:Sports
-http://cdn.naturalbd.com:8083/SonyTen1/tracks-v1a1/mono.m3u8
+http://103.205.133.21/hls/ten1.m3u8
 #EXTINF:0,Sony TEN2
 #EXTGRP:Sports
-http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
+http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 #EXTINF:0,Sony TEN3
 #EXTGRP:Sports
 http://cdn.naturalbd.com:8083/SonyTen3/tracks-v1a1/mono.m3u8
