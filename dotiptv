@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:0,BTV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:0,BTV World
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/btvworld.m3u8
 #EXTINF:0,Sangsad Bangladesh
-#EXTGRP:Infotainment
+#EXTGRP:Local
 http://103.102.27.172:6464/Channel-2/index.m3u8
 #EXTINF:0,BTV Chattogram
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.102.27.172:6464/Channel-3/index.m3u8
 #EXTINF:0,ATN Bangla
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/atnbangla.m3u8
 #EXTINF:0,Channel I
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/ichannel.m3u8
 #EXTINF:0,Ekushey TV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/ekushey.m3u8
 #EXTINF:0,NTV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0,Rtv
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:0,Boishakhi TV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/boisakhi.m3u8
 #EXTINF:0,Banglavision
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/banglavision.m3u8
 #EXTINF:0,Desh TV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/deshtv.m3u8
 #EXTINF:0,My TV
 #EXTGRP:Movies
@@ -54,25 +54,25 @@ http://103.205.133.21/hls/somoy.m3u8
 #EXTGRP:News
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0,Maasranga TV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:0,Channel 9
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/ninechannel.m3u8
 #EXTINF:0,Channel 24
 #EXTGRP:News
 http://103.205.133.21/hls/channel24.m3u8
 #EXTINF:0,Gazi TV
-#EXTGRP:Sports
-http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTGRP:Local
+http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:News
 http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:0,Asian TV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:0,SATV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/satv.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:Music
@@ -81,7 +81,7 @@ http://103.205.133.21/hls/gaanbangla.m3u8
 #EXTGRP:News
 http://103.205.133.21/hls/jamunatv.m3u8
 #EXTINF:0,Deepto TV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:0,DBC 24/7 News
 #EXTGRP:News
@@ -90,13 +90,13 @@ http://103.205.133.21/hls/dbcnews.m3u8
 #EXTGRP:News
 http://103.205.133.21/hls/news24.m3u8
 #EXTINF:0,Bangla TV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/banglatv.m3u8
 #EXTINF:0,Duronto TV
 #EXTGRP:Infotainment
 http://103.102.27.172:6464/Channel-4/index.m3u8
 #EXTINF:0,Nagorik TV
-#EXTGRP:Entertainment
+#EXTGRP:Local
 http://103.205.133.21/hls/nagorik.m3u8
 #EXTINF:0,Ananda TV
 #EXTGRP:Movies
@@ -239,6 +239,9 @@ http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 #EXTINF:0,Sony TEN3
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:0,Sony TEN4
+#EXTGRP:Sports
+http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
@@ -251,3 +254,9 @@ http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:0,Dubai Racing
+#EXTGRP:Sports
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0,Redbull TV
+#EXTGRP:Sports
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
