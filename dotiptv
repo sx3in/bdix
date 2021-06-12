@@ -128,6 +128,9 @@ http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Music
 http://103.205.133.21/hls/sangeetbangla.m3u8
+#EXTINF:0,Bangla Talkies
+#EXTGRP:Music
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:0,ABP Ananda
 #EXTGRP:News
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
@@ -140,6 +143,18 @@ https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/in
 #EXTINF:0,Assam Talks
 #EXTGRP:News
 https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+#EXTINF:0,Nick
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:0,Discovery
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chs.m3u8
@@ -155,15 +170,27 @@ http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chc.m3u8
-#EXTINF:0,Star Gold Select
+#EXTINF:0,Star Gold
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:0,MAX
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:0,MAX2
+#EXTGRP:Movies
+http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:0,WAH
+#EXTGRP:Movies
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:0,Zee Action
+#EXTGRP:Movies
+http://z5ams.akamaized.net/action/index.m3u8
+#EXTINF:0,Zee Anmol Cinema
+#EXTGRP:Movies
+http://z5ams.akamaized.net/zanmolcnm/index.m3u8
 #EXTINF:0,WOW Movies
 #EXTGRP:Movies
 http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
@@ -173,30 +200,33 @@ http://10.16.100.207:8082/sports/mtuness.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0,9X Jalwa
+#EXTGRP:Music
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:0,Music India
+#EXTGRP:Music
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:0,NDTV 24x7
 #EXTGRP:News
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:0,CNBC TV18
 #EXTGRP:News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0,Colors Infinity
+#EXTGRP:Entertainment
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:0,PIX
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/hbo.m3u8
-#EXTINF:0,Nick
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0,Discovery
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/discovery.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:0,&flix
+#EXTGRP:Movies
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,&prive
+#EXTGRP:Movies
+http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:0,CNN
 #EXTGRP:News
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
