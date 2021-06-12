@@ -116,6 +116,9 @@ http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:0,Akash Aath
 #EXTGRP:Entertainment
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
+#EXTINF:0,Sun Bangla
+#EXTGRP:Entertainment
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/sony8.m3u8
@@ -133,28 +136,49 @@ http://103.205.133.21/hls/sangeetbangla.m3u8
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:0,ABP Ananda
 #EXTGRP:News
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_364.m3u8
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:0,News18 Bangla
 #EXTGRP:News
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:0,Calcutta News
 #EXTGRP:News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
-#EXTINF:0,Assam Talks
+#EXTINF:0,Zee 24 Ghanta
 #EXTGRP:News
-https://vidcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+http://z5ams.akamaized.net/24ghanta/index.m3u8
+#EXTINF:0,Pratidin Time
+#EXTGRP:News
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:0,Nick
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:0,PBS Kids
+#EXTGRP:Infotainment
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:0,Baby First
+#EXTGRP:Infotainment
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,CGTN Documentary
+#EXTGRP:Infotainment
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:0,Discovery
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/discovery.m3u8
-#EXTINF:0,National Geographic
+#EXTINF:0,TLC
 #EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/natg.m3u8
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BBC Lifestyle
+#EXTGRP:Infotainment
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:Infotainment
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chs.m3u8
@@ -173,6 +197,12 @@ http://103.205.133.21/hls/chc.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:0,Star Gold Select
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:0,WOW Movies
+#EXTGRP:Movies
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
 #EXTINF:0,MAX
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/sony-max.m3u8
@@ -185,15 +215,12 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:0,Zee Action
+#EXTINF:0,Zee Bollywood
 #EXTGRP:Movies
-http://z5ams.akamaized.net/action/index.m3u8
-#EXTINF:0,Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:0,&pictures
 #EXTGRP:Movies
-http://z5ams.akamaized.net/zanmolcnm/index.m3u8
-#EXTINF:0,WOW Movies
-#EXTGRP:Movies
-http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://10.16.100.207:8082/sports/mtuness.m3u8
@@ -203,7 +230,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:0,Music India
+#EXTINF:0,B4U Music
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:0,NDTV 24x7
@@ -215,18 +242,36 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:0,Colors Infinity
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:0,Blue Ant Entertainment
+#EXTGRP:Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist.m3u8
+#EXTINF:0,Fox HD
+#EXTGRP:Entertainment
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:Entertainment
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 #EXTINF:0,PIX
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/hbo.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
 #EXTINF:0,&flix
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0,&prive
 #EXTGRP:Movies
-http://z5ams.akamaized.net/andprivehd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0,VH1
+#EXTGRP:Music
+http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0,Ocko Express
+#EXTGRP:Music
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:0,CNN
 #EXTGRP:News
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -236,12 +281,24 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:News
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:0,RT
+#EXTGRP:News
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:0,CGTN
+#EXTGRP:News
+https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:0,NHK World
 #EXTGRP:News
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0,Arirang World
+#EXTINF:0,Arirang
 #EXTGRP:News
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXTINF:0,CNA
+#EXTGRP:News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:News
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
