@@ -164,6 +164,9 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Infotainment
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
@@ -173,18 +176,15 @@ http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:0,TLC
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,Asian Food Network
-#EXTGRP:Infotainment
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BBC Lifestyle
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:0,Fashion TV
+#EXTINF:0,Travel XP
 #EXTGRP:Infotainment
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:0,HD Fashion & Lifestyle
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:0,Asian Food Network
 #EXTGRP:Infotainment
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chs.m3u8
@@ -197,6 +197,9 @@ http://103.205.133.21/hls/chsp.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Entertainment
 http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+#EXTINF:0,&tv
+#EXTGRP:Entertainment
+http://z5ams.akamaized.net/andtvsd/index.m3u8?hdnts=st=1623770844~exp=1623773844~acl=/*~hmac=d0107a5641ccedd4cab2f2e83fddb2e96882dcfc1c7b2593c55b0c78e5efa26c
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://103.205.133.21/hls/chc.m3u8
@@ -236,9 +239,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:0,B4U Music
+#EXTINF:0,Music India
 #EXTGRP:Music
-http://10.16.100.208:8082/hindi/b4u_music_1stop_bd.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:0,NDTV 24x7
 #EXTGRP:News
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
@@ -251,6 +254,9 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:0,Colors Infinity
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:0,Zee Cafe
+#EXTGRP:Entertainment
+http://z5ams.akamaized.net/zeecafehd/index.m3u8?hdnts=st=1623770301~exp=1623773301~acl=/*~hmac=b3129c53cfbcb90c76109373c63c111d6f6a2a0f7fcdde3078f26f08ca19a13b
 #EXTINF:0,Blue Ant Entertainment
 #EXTGRP:Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist.m3u8
@@ -260,6 +266,12 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:0,Fox Life
 #EXTGRP:Entertainment
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:Entertainment
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:0,HD Fashion & Lifestyle
+#EXTGRP:Entertainment
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0,&flix
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -272,6 +284,9 @@ http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Movies
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
+#EXTINF:0,HBO Hits
+#EXTGRP:Movies
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0,VH1
 #EXTGRP:Music
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -284,6 +299,9 @@ http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:0,Radio m2o
 #EXTGRP:Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,CMC
+#EXTGRP:Music
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
@@ -302,6 +320,9 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0,RT
 #EXTGRP:News
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:0,ABC News
+#EXTGRP:News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,CGTN
 #EXTGRP:News
 https://live.cgtn.com/1000/prog_index.m3u8
