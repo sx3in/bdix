@@ -143,7 +143,7 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:0,Pratidin Time
 #EXTGRP:News
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:0,Nick
+#EXTINF:0,Nickelodeon
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:0,Animax
@@ -161,7 +161,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:0,RT Documentary
 #EXTGRP:Infotainment
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:0,The Outdoor Channel
+#EXTINF:0,Outdoor Channel
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,Love Nature
@@ -173,7 +173,7 @@ http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Infotainment
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:0,Discovery
+#EXTINF:0,Discovery HD
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:0,Discovery Turbo
@@ -182,10 +182,10 @@ https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:0,TLC
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,Travel XP
+#EXTINF:0,TravelXP
 #EXTGRP:Infotainment
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-#EXTINF:0,Asian Food Network
+#EXTINF:0,AFN
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BBC Lifestyle
@@ -227,9 +227,6 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:0,Sony WAH
 #EXTGRP:Movies
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:0,WOW Cinema
-#EXTGRP:Movies
-http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
@@ -284,7 +281,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:0,&prive
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0,PIX
+#EXTINF:0,Sony PIX
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:0,HBO
@@ -305,7 +302,10 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 #EXTINF:0,MBC Max
 #EXTGRP:Movies
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:0,VH1
+#EXTINF:0,MTV Europe
+#EXTGRP:Music
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
+#EXTINF:0,VH1 Italia
 #EXTGRP:Music
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0,CMC
@@ -320,13 +320,13 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w780281162.m3
 #EXTINF:0,Radio m2o
 #EXTGRP:Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,Utv Live
+#EXTGRP:Music
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:0,Magic TV
 #EXTGRP:Music
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:0,UTV Edge
-#EXTGRP:Music
-http://81.196.0.126/utvedge/utvlivehls/index.m3u8
-#EXTINF:0,DSTV
+#EXTINF:0,Dance Star TV
 #EXTGRP:Music
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:0,BBC World News
