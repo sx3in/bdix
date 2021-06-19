@@ -3,7 +3,7 @@
 #EXTGRP:Local
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:0,BTV World
-#EXTGRP:Local
+#EXTGRP:News
 http://103.205.133.21/hls/btvworld.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Infotainment
@@ -63,7 +63,7 @@ http://103.205.133.21/hls/ninechannel.m3u8
 #EXTGRP:News
 http://103.205.133.21/hls/channel24.m3u8
 #EXTINF:0,Gazi TV
-#EXTGRP:Sports
+#EXTGRP:Local
 http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:News
@@ -161,6 +161,12 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:0,RT Documentary
 #EXTGRP:Infotainment
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:0,Docurama
+#EXTGRP:Infotainment
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:0,History TV18
+#EXTGRP:Infotainment
+http://46.249.33.26:9548/wildsci2019/historytv18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDg6NTU6NTQgQU0maGFzaF92YWx1ZT1BbGlaRHZiMEd4Y1JkWmd5eWhPdVF3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Outdoor Channel
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -191,9 +197,6 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BBC Lifestyle
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:0,Docurama
-#EXTGRP:Infotainment
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:0,Fashion TV
 #EXTGRP:Infotainment
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
@@ -227,6 +230,12 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:0,Sony WAH
 #EXTGRP:Movies
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTINF:0,Rishtey Cineplex
+#EXTGRP:Movies
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:0,WOW Cinema
+#EXTGRP:Movies
+http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
@@ -238,7 +247,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v2a1/mono.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
-http://10.16.100.207:8082/sports/mtuness.m3u8
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -296,6 +305,9 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:0,HBO Hits
 #EXTGRP:Movies
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:0,FOX Movies
+#EXTGRP:Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:0,MBC 2
 #EXTGRP:Movies
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
@@ -346,7 +358,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:0,France 24
 #EXTGRP:News
-http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
+http://103.102.27.172:6464/Channel-4/index.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:News
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
@@ -401,10 +413,10 @@ http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:0,Willow Cricket
+#EXTINF:0,Willow
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
-#EXTINF:0,Sky Sports Cricket
+#EXTINF:0,Sky Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:0,ESPN
@@ -413,6 +425,9 @@ http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:0,Fox Sports
 #EXTGRP:Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
+#EXTINF:0,The Tennis Channel
+#EXTGRP:Sports
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:0,Redbull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
