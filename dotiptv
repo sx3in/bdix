@@ -166,7 +166,7 @@ http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:0,History TV18
 #EXTGRP:Infotainment
-http://46.249.33.26:9548/wildsci2019/historytv18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDg6NTU6NTQgQU0maGFzaF92YWx1ZT1BbGlaRHZiMEd4Y1JkWmd5eWhPdVF3PT0mdmFsaWRtaW51dGVzPTI=
+http://46.249.33.26:9548/wildsci2019/historytv18/playlist.m3u8
 #EXTINF:0,Outdoor Channel
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -235,7 +235,7 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:0,WOW Cinema
 #EXTGRP:Movies
-http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
@@ -278,10 +278,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:0,Blue Ant Entertainment
 #EXTGRP:Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist.m3u8
-#EXTINF:0,Fox HD
+#EXTINF:0,FOX HD
 #EXTGRP:Entertainment
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:0,Fox Life
+#EXTINF:0,FOX Life
 #EXTGRP:Entertainment
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
 #EXTINF:0,&flix
@@ -332,7 +332,7 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w780281162.m3
 #EXTINF:0,Radio m2o
 #EXTGRP:Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:0,Utv Live
+#EXTINF:0,UTV Edge
 #EXTGRP:Music
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:0,Magic TV
@@ -341,12 +341,15 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:0,Dance Star TV
 #EXTGRP:Music
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-#EXTINF:0,BBC World News
+#EXTINF:0,Bloomberg
 #EXTGRP:News
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:0,CNN
 #EXTGRP:News
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:0,Aljazeera
 #EXTGRP:News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -374,9 +377,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:0,CNA
 #EXTGRP:News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0,Bloomberg
-#EXTGRP:News
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
@@ -391,10 +391,10 @@ http://tv2.ebox.live:8080/live/starsports-1.m3u8
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:0,Star Sports 3
 #EXTGRP:Sports
-http://10.16.100.207:8082/sports/sony_six_uk.m3u8
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:0,Sony SIX
 #EXTGRP:Sports
-http://10.16.100.207:8082/sports/sony_6_TH.m3u8
+http://10.16.100.207:8082/sports/sony_six_uk.m3u8
 #EXTINF:0,Sony TEN1
 #EXTGRP:Sports
 http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
@@ -406,14 +406,14 @@ http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:0,Sony TEN4
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/TH_sony_six.m3u8
+http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:0,Willow
+#EXTINF:0,Willow HD
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0,Sky Sports
@@ -422,10 +422,10 @@ http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
-#EXTINF:0,Fox Sports
+#EXTINF:0,FOX Sports
 #EXTGRP:Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
-#EXTINF:0,The Tennis Channel
+#EXTINF:0,Tennis Channel
 #EXTGRP:Sports
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:0,Redbull TV
