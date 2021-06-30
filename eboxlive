@@ -106,13 +106,13 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:0,Sun Bangla
 #EXTGRP:Entertainment
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
@@ -185,7 +185,7 @@ https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:0,TLC
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,Travelxp
+#EXTINF:0,Travelxp HD
 #EXTGRP:Infotainment
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:0,AFN
@@ -199,28 +199,25 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:0,Sony SAB
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-plus.m3u8
+http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 #EXTINF:0,&tv
 #EXTGRP:Entertainment
 http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/colors.m3u8
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/star-gold.m3u8
-#EXTINF:0,Star Gold Select
-#EXTGRP:Movies
-http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:0,Sony MAX
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/sony-max.m3u8
@@ -242,18 +239,18 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0,&pictures
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v2a1/mono.m3u8
-#EXTINF:0,Mastiii
+#EXTINF:0,Music India
 #EXTGRP:Music
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:0,Music India
+#EXTINF:0,Mastiii
 #EXTGRP:Music
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
@@ -287,6 +284,12 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0,Sony PIX
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:0,MBC 2
+#EXTGRP:Movies
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+#EXTINF:0,MBC Max
+#EXTGRP:Movies
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Movies
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
@@ -302,12 +305,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0,FOX Movies
 #EXTGRP:Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:0,MBC 2
-#EXTGRP:Movies
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:0,MBC Max
-#EXTGRP:Movies
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:0,Paramount HD
 #EXTGRP:Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
@@ -403,28 +400,25 @@ http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
 http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 #EXTINF:0,Sony TEN3
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
 #EXTINF:0,Sony TEN4
 #EXTGRP:Sports
 http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
+http://10.16.100.203:8082/bangla/sony6_TV_bkp.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/ptvsports.m3u8
+http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:0,Willow HD
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/willow-cric.m3u8
+http://103.102.27.172:6464/Channel-2/index.m3u8
 #EXTINF:0,Sky Sports
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+http://103.102.27.172:6464/Channel-3/index.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonyespn.m3u8
-#EXTINF:0,FOX Sports
-#EXTGRP:Sports
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
+http://103.102.27.172:6464/Channel-4/index.m3u8
 #EXTINF:0,Tennis Channel
 #EXTGRP:Sports
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
