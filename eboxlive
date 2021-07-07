@@ -193,7 +193,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:0,Fashion TV
 #EXTGRP:Infotainment
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
@@ -239,6 +239,9 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0,&pictures
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v2a1/mono.m3u8
+#EXTINF:0,ARY Musik
+#EXTGRP:Music
+http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Music India
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
