@@ -13,7 +13,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:0,ATN Bangla
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/atnbangla.m3u8
+http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:0,Channel I
 #EXTGRP:Entertainment
 http://10.16.100.205/hls/ch_i.m3u8
@@ -79,7 +79,7 @@ http://10.16.100.203:8082/bangla/gtv.m3u8
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 #EXTINF:0,Jamuna TV
 #EXTGRP:News
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:0,Deepto TV
 #EXTGRP:Entertainment
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
@@ -103,13 +103,13 @@ http://10.16.100.203:8082/bangla/nagorik.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
 http://10.16.100.205/hls/colorsbd480.m3u8
@@ -202,10 +202,10 @@ http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
+http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Entertainment
-http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,&tv
 #EXTGRP:Entertainment
 http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
@@ -403,19 +403,19 @@ http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:0,Sony SIX
 #EXTGRP:Sports
-http://10.16.100.207:8082/sports/sony_six_uk.m3u8
+http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:0,Sony TEN1
 #EXTGRP:Sports
-http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 #EXTINF:0,Sony TEN2
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/ten_2_720.m3u8
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:0,Sony TEN3
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:0,Sony TEN4
 #EXTGRP:Sports
-http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
+http://tv2.ebox.live:8080/live/nk-six.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
@@ -425,12 +425,18 @@ http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:0,Willow HD
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
-#EXTINF:0,Sky Sports
+#EXTINF:0,Sky Sports Cricket
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:0,Sky Sports Mix
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/sony6_TV_bkp.m3u8
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:0,Tennis Channel
+#EXTGRP:Sports
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:0,Live Sports 1
 #EXTGRP:Sports
 http://103.102.27.172:6464/Channel-1/index.m3u8
@@ -443,9 +449,18 @@ http://103.102.27.172:6464/Channel-3/index.m3u8
 #EXTINF:0,Live Sports 4
 #EXTGRP:Sports
 http://103.102.27.172:6464/Channel-4/index.m3u8
-#EXTINF:0,Tennis Channel
+#EXTINF:0,Live Sports 5
 #EXTGRP:Sports
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:0,Live Sports 6
+#EXTGRP:Sports
+http://10.16.100.207:8082/sports/sony_six_uk.m3u8
+#EXTINF:0,Live Sports 7
+#EXTGRP:Sports
+http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
+#EXTINF:0,Live Sports 8
+#EXTGRP:Sports
+http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 #EXTINF:0,Redbull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
