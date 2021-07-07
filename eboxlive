@@ -63,7 +63,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTGRP:News
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:0,Gazi TV
-#EXTGRP:Entertainment
+#EXTGRP:Sports
 http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:News
@@ -73,7 +73,7 @@ http://10.16.100.205/hls/ekattor_hd_720.m3u8
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:0,SATV
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/gtv.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:Music
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
@@ -91,7 +91,7 @@ http://10.16.100.203:8082/bangla/dbcnews.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0,Bangla TV
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:0,Duronto TV
 #EXTGRP:Infotainment
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
@@ -125,9 +125,15 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:0,Star Jalsha Movies
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:0,ATN Music
+#EXTGRP:Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:0,Rtv Music
+#EXTGRP:Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Music
-http://10.16.100.204:8082/hls/sangeet_bangla_dish.m3u8
+https://d3t34m8y8rh0vb.cloudfront.net/sangeetbangla/07Jul2021/1100/1625661072261_6000.ts
 #EXTINF:0,Bangla Talkies
 #EXTGRP:Music
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
@@ -232,13 +238,13 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v2a1/mono.m3u8
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8#EXTINF:0,Zee Bollywood
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0,&pictures
 #EXTGRP:Movies
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v2a1/mono.m3u8
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 #EXTINF:0,ARY Musik
 #EXTGRP:Music
 http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
