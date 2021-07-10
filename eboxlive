@@ -228,13 +228,16 @@ http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Entertainment
-http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:0,Sony MAX
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:0,Sony MAX2
+#EXTGRP:Movies
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:0,Sony WAH
 #EXTGRP:Movies
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
@@ -253,9 +256,6 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0,&pictures
 #EXTGRP:Movies
 http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
-#EXTINF:0,ARY Musik
-#EXTGRP:Music
-http://stream.arylive.com/arymusik/myStream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Music India
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
@@ -301,6 +301,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:0,FOX Life
 #EXTGRP:Entertainment
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
+#EXTINF:0,Warner Bros
+#EXTGRP:Entertainment
+http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0,&flix
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
@@ -439,9 +442,18 @@ http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:0,Willow HD
+#EXTINF:0,Willow Cricket
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:0,Sky Sports Cricket
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:0,Sky Sports Mix
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:0,Tennis Channel
 #EXTGRP:Sports
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
