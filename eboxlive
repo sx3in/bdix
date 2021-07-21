@@ -159,7 +159,7 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTGRP:Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0,Boomerang
-#EXTGRP:Infotainment
+#EXTGRP:Kids
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:0,Baby First
 #EXTGRP:Kids
@@ -437,23 +437,23 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTGRP:News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0,TLC
-#EXTGRP:Lifestyle
+#EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,Travel XP
-#EXTGRP:Lifestyle
+#EXTGRP:Infotainment
 http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:0,AFN
-#EXTGRP:Lifestyle
+#EXTGRP:Infotainment
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BBC Lifestyle
-#EXTGRP:Lifestyle
+#EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:0,Dance Star TV
-#EXTGRP:Lifestyle
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:0,Fashion TV
-#EXTGRP:Lifestyle
+#EXTGRP:Infotainment
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0,Dance Star TV
+#EXTGRP:Infotainment
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
