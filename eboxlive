@@ -118,7 +118,7 @@ http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:0,Sun Bangla
 #EXTGRP:Entertainment
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
@@ -155,12 +155,15 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:0,Sony YAY
 #EXTGRP:Kids
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
-#EXTINF:0,PBS Kids
+#EXTINF:0,Cartoon Network
 #EXTGRP:Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 #EXTINF:0,Boomerang
 #EXTGRP:Kids
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:0,PBS Kids
+#EXTGRP:Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0,Baby First
 #EXTGRP:Kids
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
@@ -309,7 +312,7 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:0,History TV
 #EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/star-movies.m3u8
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:0,Docurama
 #EXTGRP:Infotainment
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
