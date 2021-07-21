@@ -400,9 +400,6 @@ https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0,Music Top
 #EXTGRP:Music
 http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
-#EXTINF:0,Dance Star TV
-#EXTGRP:Music
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:0,Bloomberg
 #EXTGRP:News
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
@@ -451,6 +448,9 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BBC Lifestyle
 #EXTGRP:Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0,Dance Star TV
+#EXTGRP:Lifestyle
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:0,Fashion TV
 #EXTGRP:Lifestyle
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
@@ -487,33 +487,33 @@ http://tv2.ebox.live:8080/live/nk-six.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
-#EXTINF:0,PTV Sports
+#EXTINF:0,Ten Cricket
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/ptvsports.m3u8
+http://180.210.191.2/hls/stream34.m3u8
 #EXTINF:0,Willow Cricket
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0,Sky Sports Cricket
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:0,Sky Sports Mix
+#EXTINF:0,Sky Sports Football
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:0,PTV Sports
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:0,beIN Sports
+#EXTGRP:Sports
+http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF:0,BT Sports
+#EXTGRP:Sports
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
-#EXTINF:0,Live Sports 1
+#EXTINF:0,WWE
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-1/index.m3u8
-#EXTINF:0,Live Sports 2
-#EXTGRP:Sports
-http://103.102.27.172:6464/Channel-2/index.m3u8
-#EXTINF:0,Live Sports 3
-#EXTGRP:Sports
-http://103.102.27.172:6464/Channel-3/index.m3u8
-#EXTINF:0,Live Sports 4
-#EXTGRP:Sports
-http://103.102.27.172:6464/Channel-4/index.m3u8
+http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
 #EXTINF:0,Redbull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
