@@ -465,7 +465,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
@@ -477,13 +477,13 @@ http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:0,Sony SIX
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonysix.m3u8
+http://199.66.95.242:80/3/3096/index.m3u8?token=test
 #EXTINF:0,Sony TEN1
 #EXTGRP:Sports
 http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:0,Sony TEN2
 #EXTGRP:Sports
-http://tv.pmcon.net/hls/stream40.m3u8
+http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:0,Sony TEN3
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
