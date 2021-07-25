@@ -461,19 +461,19 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 #EXTINF:0,Travel XP
 #EXTGRP:Infotainment
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-#EXTINF:0,AFN
+#EXTINF:0,Asian Food Network
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,BBC Lifestyle
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:0,WFC
+#EXTINF:0,World Fashion Channel
 #EXTGRP:Infotainment
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 #EXTINF:0,Fashion TV
 #EXTGRP:Infotainment
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:0,FTV Midnight
+#EXTINF:0,FTV Midnite
 #EXTGRP:Infotainment
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0,Star Sports Select 1
@@ -533,7 +533,7 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
-#EXTINF:0,ESPN
+#EXTINF:0,FOX Sports
 #EXTGRP:Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
 #EXTINF:0,WWE
