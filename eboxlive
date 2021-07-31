@@ -16,7 +16,7 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 http://tv.pmcon.net/hls/stream17.m3u8
 #EXTINF:0,Channel I
 #EXTGRP:Entertainment
-http://10.16.100.205/hls/ch_i.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:0,Ekushey TV
 #EXTGRP:Entertainment
 http://10.16.100.205/hls/21etv.m3u8
@@ -31,7 +31,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0,Banglavision
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
 #EXTINF:0,Desh TV
 #EXTGRP:Entertainment
 http://10.16.100.205/hls/des_tv_local480.m3u8
@@ -85,7 +85,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:0,DBC 24/7 News
 #EXTGRP:News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:0,News 24
 #EXTGRP:News
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
@@ -103,7 +103,7 @@ http://10.16.100.203:8082/bangla/nagorik.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:0,ATN Music
 #EXTGRP:Music
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
@@ -490,10 +490,10 @@ http://tv.pmcon.net/hls/stream15.m3u8
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:0,Star Sports 3
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-1/index.m3u8
+
 #EXTINF:0,Sony SIX
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-3/index.m3u8
+http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:0,Sony TEN1
 #EXTGRP:Sports
 http://tv.pmcon.net/hls/stream40.m3u8
@@ -505,7 +505,19 @@ http://tv.pmcon.net/hls/stream39.m3u8
 http://10.16.100.203:8082/bangla/ten_3_720.m3u8
 #EXTINF:0,Sony TEN4
 #EXTGRP:Sports
+http://tv2.ebox.live:8080/live/nk-six.m3u8
+#EXTINF:0,Live Sports 1
+#EXTGRP:Sports
+http://103.102.27.172:6464/Channel-1/index.m3u8
+#EXTINF:0,Live Sports 2
+#EXTGRP:Sports
 http://103.102.27.172:6464/Channel-2/index.m3u8
+#EXTINF:0,Live Sports 3
+#EXTGRP:Sports
+http://103.102.27.172:6464/Channel-3/index.m3u8
+#EXTINF:0,Live Sports 4
+#EXTGRP:Sports
+http://103.102.27.172:6464/Channel-4/index.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
 http://185.180.15.17:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
@@ -523,7 +535,7 @@ http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-4/index.m3u8
+http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:0,beIN Sports
 #EXTGRP:Sports
 http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
