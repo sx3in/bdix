@@ -64,7 +64,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Sports
-http://10.16.100.207:8082/sports/Gtv_local_sd.m3u8
+http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:News
 http://103.109.56.116/live/skyfeed1003/index.m3u8
@@ -76,7 +76,7 @@ http://10.16.100.203:8082/bangla/tv_asian.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:Music
-http://iptvbd.jagobd.com:1931/boishakhi/gaanbangla-8-orgd.stream/chunks.m3u8
+http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:0,Jamuna TV
 #EXTGRP:News
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -122,9 +122,15 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:0,Sun Bangla
 #EXTGRP:Entertainment
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#EXTINF:0,Akash Aath
+#EXTGRP:Entertainment
+http://10.16.100.204:8082/hls/akash_aat_local.m3u8
+#EXTINF:0,Enter10 Bangla
+#EXTGRP:Entertainment
+http://idvd.multitvsolution.com/idvo/enter10bangla.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
 #EXTINF:0,Khushboo Bangla
 #EXTGRP:Movies
 http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
@@ -136,7 +142,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Music
-http://10.16.100.204:8082/hls/sangeet_bangla_dish.m3u8
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/index.m3u8
 #EXTINF:0,Bangla Talkies
 #EXTGRP:Music
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
@@ -152,6 +158,9 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:0,Sony YAY
 #EXTGRP:Kids
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:Kids
+https://idvd.multitvsolution.com/idvo/discoverykidseng.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:Kids
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
@@ -164,9 +173,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0,Baby First
 #EXTGRP:Kids
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,Discovery Kids
-#EXTGRP:Kids
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Kids
 http://tv2.ebox.live:8080/live/nick.m3u8
@@ -190,16 +196,16 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://172.27.27.3:8081/local/Star_Plus/chunks.m3u8
-#EXTINF:0,Star Bharat
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:0,Big Magic
 #EXTGRP:Entertainment
-http://212.102.60.40:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Entertainment
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:0,&tv
 #EXTGRP:Entertainment
-http://212.224.98.196:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=RK
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://172.27.27.3:8081/local/Colors/chunks.m3u8
@@ -454,7 +460,7 @@ http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
-http://172.27.27.3:8081/local/star-sports-1-hd/chunks.m3u8
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
@@ -523,7 +529,10 @@ http://172.22.22.76/live/feed1002/index.m3u8
 http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:0,Live Sports 7
 #EXTGRP:Sports
-http://172.22.22.76/live/feed1004/index.m3u8
+http://10.16.100.207:8082/sports/gazi_tvhd_local.m3u8
 #EXTINF:0,Live Sports 8
 #EXTGRP:Sports
-http://172.22.22.76/live/feed1005/index.m3u8
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:0,Live Sports 9
+#EXTGRP:Sports
+http://172.27.27.3:8081/local/maasranga-tv/chunks.m3u8
