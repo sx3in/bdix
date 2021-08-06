@@ -7,7 +7,7 @@ http://103.106.2.149:13456/btv.m3u8
 https://iptvbd.jagobd.com:444/iptv/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Infotainment
-http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0,BTV Chattogram
 #EXTGRP:Entertainment
 http://103.106.2.149:13456/btv_ctg.m3u8
@@ -130,7 +130,7 @@ http://10.16.100.204:8082/hls/akash_aat_local.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
-http://10.16.100.204:8082/hls/sony_aat_local.m3u8
+http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:0,Khushboo Bangla
 #EXTGRP:Movies
 http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
@@ -199,7 +199,7 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-plus.m3u8
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Big Magic
 #EXTGRP:Entertainment
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
@@ -239,6 +239,9 @@ http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
 #EXTINF:0,WOW Cinema
 #EXTGRP:Movies
 http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+#EXTINF:0,Bflix
+#EXTGRP:Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
@@ -248,6 +251,9 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:0,Zee Anmol Cinema
+#EXTGRP:Movies
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:0,&pictures
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
@@ -281,6 +287,9 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:0,CGTN Documentary
 #EXTGRP:Infotainment
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0,RT Documentary
+#EXTGRP:Infotainment
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
 #EXTINF:0,History TV
 #EXTGRP:Infotainment
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
@@ -301,7 +310,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0,Discovery HD
 #EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/discovery.m3u8
+http://mygoodstream.pw/proxy.php/http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP:Infotainment
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
@@ -322,7 +331,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 http://45.126.83.51/session/08b55556-f61c-11eb-a877-8ef1b2bb4097/dr9445/h/h16/02.m3u8
 #EXTINF:0,FOX HD
 #EXTGRP:Entertainment
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:0,FOX Life
 #EXTGRP:Entertainment
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
