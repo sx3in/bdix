@@ -104,18 +104,15 @@ http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-#EXTINF:0,ATN Music
-#EXTGRP:Music
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF:0,RTV Music
-#EXTGRP:Music
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+#EXTINF:0,Nexus Television
+#EXTGRP:Infotainment
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
-http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
@@ -193,7 +190,7 @@ http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
+http://103.205.133.19/hls/chs.m3u8
 #EXTINF:0,Sony SAB
 #EXTGRP:Entertainment
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
@@ -211,7 +208,7 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
-http://172.27.27.3:8081/local/Colors/chunks.m3u8
+http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Movies
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
@@ -223,13 +220,10 @@ http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony MAX
 #EXTGRP:Movies
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://172.27.27.3:8081/local/Zee_Chinaman/chunks.m3u8
 #EXTINF:0,Sony WAH
 #EXTGRP:Movies
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:0,Colors Cineplex
-#EXTGRP:Movies
-http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:0,Rishtey Cineplex
 #EXTGRP:Movies
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
@@ -371,27 +365,24 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:0,HBO Hits
 #EXTGRP:Movies
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 #EXTINF:0,WB
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0,VH1
 #EXTGRP:Music
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:0,Ocko Expres
-#EXTGRP:Music
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:0,1music
-#EXTGRP:Music
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w780281162.m3u8
 #EXTINF:0,Radio m2o
 #EXTGRP:Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0,CMC
 #EXTGRP:Music
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:0,Ocko Expres
+#EXTGRP:Music
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+#EXTINF:0,1music
+#EXTGRP:Music
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w780281162.m3u8
 #EXTINF:0,UTV Edge
 #EXTGRP:Music
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
@@ -446,9 +437,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:0,TLC
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,Travelxp
-#EXTGRP:Infotainment
-http://mygoodstream.pw/proxy.php/https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Travelxp Hindi
 #EXTGRP:Infotainment
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
