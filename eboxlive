@@ -4,7 +4,7 @@
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:News
-https://iptvbd.jagobd.com:444/iptv/btvbd-office-sg.stream/chunks.m3u8
+https://bds.jagobd.com:444/c2VydmVyX6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Infotainment
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
@@ -61,7 +61,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:0,Channel 24
 #EXTGRP:News
-http://10.16.100.205/hls/ch24.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Sports
 http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8
@@ -109,7 +109,7 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-https://d2k667g61yse6h.cloudfront.net/101.m3u8
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
@@ -190,10 +190,10 @@ http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
-http://103.205.133.19/hls/chs.m3u8
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:0,Sony SAB
 #EXTGRP:Entertainment
-http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
@@ -211,7 +211,7 @@ http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Movies
-http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:Movies
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
@@ -220,7 +220,7 @@ http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony MAX
 #EXTGRP:Movies
-http://172.27.27.3:8081/local/Zee_Chinaman/chunks.m3u8
+http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:0,Sony WAH
 #EXTGRP:Movies
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
@@ -253,7 +253,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
-http://10.16.100.204:8082/hls/m_tunes_dish.m3u8
+http://10.16.100.200:8082/hls/m_tuNes_local.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
@@ -265,7 +265,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://10.16.100.208:8082/hindi/b4u_music_1stop_bd.m3u8
+http://10.16.100.200:8082/hls/bforu_music_local.m3u8
 #EXTINF:0,Kadak Hits
 #EXTGRP:Music
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
@@ -289,7 +289,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Infotainment
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:0,Nat Geo Wild
 #EXTGRP:Infotainment
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
@@ -439,7 +439,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,Travelxp Hindi
 #EXTGRP:Infotainment
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Asian Food Network
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
@@ -451,7 +451,7 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 #EXTINF:0,Fashion TV
 #EXTGRP:Infotainment
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8
+https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_480p_chunklist.m3u8
 #EXTINF:0,FTV Midnight Haute
 #EXTGRP:Infotainment
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
