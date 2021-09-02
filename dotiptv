@@ -112,19 +112,19 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-http://tv.pmcon.net/hls/stream30.m3u8
+http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
-http://tv.pmcon.net/hls/stream28.m3u8
+http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
-http://tv.pmcon.net/hls/stream31.m3u8
-#EXTINF:0,Sun Bangla
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:0,Aakash Aath
 #EXTGRP:Entertainment
-https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+http://10.16.100.204:8082/hls/akash_aat_local.m3u8
 #EXTINF:0,Enter10 Bangla
 #EXTGRP:Entertainment
-http://tv.pmcon.net/hls/stream26.m3u8
+http://idvd.multitvsolution.com/idvo/enter10bangla.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
@@ -190,7 +190,7 @@ http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
-http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+http://stream.dhakaflix.com:8081/SonyTVHD/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony SAB
 #EXTGRP:Entertainment
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
