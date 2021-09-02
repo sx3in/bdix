@@ -76,7 +76,7 @@ http://103.205.133.19/hls/asiantv.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:Music
-http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
+http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:0,Jamuna TV
 #EXTGRP:News
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -142,7 +142,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Music
-http://10.16.100.204:8082/hls/sangeet_bangla_dish.m3u8
+http://stream.dhakaflix.com:8081/SangeetBangla/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Bangla Talkies
 #EXTGRP:Music
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
@@ -244,7 +244,7 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 http://stream.dhakaflix.com:8081/live/&picturesHD/chunks.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
-http://10.16.100.204:8082/hls/m_tunes_dish.m3u8
+http://10.16.100.200:8082/hls/m_tuNes_local.m3u8
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
@@ -256,13 +256,10 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-http://10.16.100.208:8082/hindi/b4u_music_1stop_bd.m3u8
-#EXTINF:0,Kadak Hits
-#EXTGRP:Music
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+http://10.16.100.200:8082/hls/bforu_music_local.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Music
-http://tv.pmcon.net/hls/stream8.m3u8
+http://stream.dhakaflix.com:8081/live/Zoom/chunks.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
 http://212.224.98.196:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RK
@@ -374,27 +371,18 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0,Ocko Expres
 #EXTGRP:Music
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:0,1music
-#EXTGRP:Music
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w780281162.m3u8
 #EXTINF:0,Radio m2o
 #EXTGRP:Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:0,CMC
-#EXTGRP:Music
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:0,UTV Edge
-#EXTGRP:Music
-http://81.196.0.126/utvedge/utvlivehls/index.m3u8
 #EXTINF:0,1HD
 #EXTGRP:Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:0,V2Beat
-#EXTGRP:Music
-https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0,Music Top
 #EXTGRP:Music
 http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
+#EXTINF:0,V2Beat
+#EXTGRP:Music
+https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0,Dance Star TV
 #EXTGRP:Music
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
