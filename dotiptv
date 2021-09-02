@@ -16,7 +16,7 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 http://stream.dhakaflix.com:8081/hls/atnbangla.m3u8/chunks.m3u8
 #EXTINF:0,Channel I
 #EXTGRP:Entertainment
-http://10.16.100.205/hls/ch_i.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:0,Ekushey TV
 #EXTGRP:Entertainment
 http://10.16.100.205/hls/21etv.m3u8
@@ -167,6 +167,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0,Baby First
 #EXTGRP:Kids
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Pogo
+#EXTGRP:Kids
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 #EXTINF:0,Discovery Kids
 #EXTGRP:Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
