@@ -13,7 +13,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:0,ATN Bangla
 #EXTGRP:Entertainment
-http://tv.pmcon.net/hls/stream17.m3u8
+http://stream.dhakaflix.com:8081/hls/atnbangla.m3u8/chunks.m3u8
 #EXTINF:0,Channel I
 #EXTGRP:Entertainment
 http://10.16.100.205/hls/ch_i.m3u8
@@ -31,7 +31,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0,Banglavision
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+http://stream.dhakaflix.com:8081/hls/banglavision.m3u8/chunks.m3u8
 #EXTINF:0,Desh TV
 #EXTGRP:Entertainment
 http://10.16.100.205/hls/des_tv_local480.m3u8
@@ -82,7 +82,7 @@ http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0,Deepto TV
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
+http://stream.dhakaflix.com:8081/hls/deeptotv.m3u8/chunks.m3u8
 #EXTINF:0,DBC 24/7 News
 #EXTGRP:News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
@@ -91,13 +91,13 @@ http://10.16.100.203:8082/bangla/dbcnews.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:0,Bangla TV
 #EXTGRP:Entertainment
-http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
+http://stream.dhakaflix.com:8081/hls/banglatv.m3u8/chunks.m3u8
 #EXTINF:0,Duronto TV
 #EXTGRP:Kids
 http://103.157.237.18:8000/play/132
 #EXTINF:0,Nagorik TV
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/nagorik.m3u8
+http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8
 #EXTINF:0,Ananda TV
 #EXTGRP:Movies
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
