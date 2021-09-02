@@ -61,13 +61,13 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:0,Channel 24
 #EXTGRP:News
-http://10.16.100.205/hls/ch24.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Sports
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:News
-http://10.16.100.205/hls/ekattor_hd_720.m3u8
+http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:0,Asian TV
 #EXTGRP:Entertainment
 http://103.205.133.19/hls/asiantv.m3u8
@@ -85,7 +85,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 http://stream.dhakaflix.com:8081/hls/deeptotv.m3u8/chunks.m3u8
 #EXTINF:0,DBC 24/7 News
 #EXTGRP:News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:0,News 24
 #EXTGRP:News
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
@@ -104,6 +104,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0,T Sports
 #EXTGRP:Sports
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:0,Nexus Television
+#EXTGRP:Infotainment
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 #EXTINF:0,ATN Music
 #EXTGRP:Music
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
@@ -287,21 +290,33 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:0,CNBC TV18
 #EXTGRP:News
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0,CGTN Documentary
+#EXTGRP:Infotainment
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0,RT Documentary
+#EXTGRP:Infotainment
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/chunks.m3u8
+#EXTINF:0,History TV
+#EXTGRP:Infotainment
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Infotainment
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-#EXTINF:0,Nat Geo Wild
+http://stream.dhakaflix.com:8081/live/natgeo/chunks.m3u8
+#EXTINF:0,Sony BBC Earth
 #EXTGRP:Infotainment
-http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+http://stream.dhakaflix.com:8081/live/bbcearth/chunks.m3u8
 #EXTINF:0,Love Nature
 #EXTGRP:Infotainment
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:0,Outdoor Channel
+#EXTGRP:Infotainment
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Infotainment
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:0,Discovery HD
 #EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/discovery.m3u8
+http://stream.dhakaflix.com:8081/live/discovary/chunks.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP:Infotainment
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
@@ -311,21 +326,6 @@ https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:0,Investigation Discovery
 #EXTGRP:Infotainment
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
-#EXTINF:0,History TV
-#EXTGRP:Infotainment
-http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
-#EXTINF:0,Outdoor Channel
-#EXTGRP:Infotainment
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0,CGTN Documentary
-#EXTGRP:Infotainment
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:0,RT Documentary
-#EXTGRP:Infotainment
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:0,Docurama
-#EXTGRP:Infotainment
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:0,Colors Infinity
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
@@ -427,7 +427,7 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+http://stream.dhakaflix.com:8081/live/bbcnews/chunks.m3u8
 #EXTINF:0,Aljazeera
 #EXTGRP:News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -455,15 +455,15 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:0,CNA
 #EXTGRP:News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0,Quran TV
+#EXTINF:0,Makkah TV
 #EXTGRP:News
-http://tv.pmcon.net/hls/stream33.m3u8
+http://stream.dhakaflix.com:8081/live/makka/chunks.m3u8
 #EXTINF:0,TLC
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,Travel XP
 #EXTGRP:Infotainment
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+http://stream.dhakaflix.com:8081/live/travlerxp/chunks.m3u8
 #EXTINF:0,Asian Food Network
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
@@ -475,8 +475,8 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 #EXTINF:0,Fashion TV
 #EXTGRP:Infotainment
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:0,FTV Midnite
+https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_480p_chunklist.m3u8
+#EXTINF:0,FTV Midnight Haute
 #EXTGRP:Infotainment
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0,Star Sports Select 1
