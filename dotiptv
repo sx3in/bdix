@@ -157,10 +157,10 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:0,Sony YAY
 #EXTGRP:Kids
-https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+http://stream.dhakaflix.com:8081/sony/yay/chunks.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:Kids
-http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+http://stream.dhakaflix.com:8081/live/cn/chunks.m3u8
 #EXTINF:0,Boomerang
 #EXTGRP:Kids
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
@@ -178,7 +178,7 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Kids
-http://180.210.191.2/hls/stream23.m3u8
+http://stream.dhakaflix.com:8081/Nick/english/chunks.m3u8
 #EXTINF:0,Nickelodeon Sonic
 #EXTGRP:Kids
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
