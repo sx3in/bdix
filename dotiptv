@@ -37,16 +37,16 @@ http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
 http://10.16.100.205/hls/des_tv_local480.m3u8
 #EXTINF:0,My TV
 #EXTGRP:Movies
-http://10.16.100.205/hls/my_tv_720.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0,ATN News
 #EXTGRP:News
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:0,Mohona TV
 #EXTGRP:Movies
-http://10.16.100.205/hls/mohona_tv_720.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0,Bijoy TV
 #EXTGRP:Movies
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
 #EXTINF:0,Somoy TV
 #EXTGRP:News
 http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist.m3u8
@@ -139,7 +139,7 @@ http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:0,Star Jalsha Movies
 #EXTGRP:Movies
-http://212.224.98.204:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=RK
+http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Music
 http://10.16.100.204:8082/hls/sangeet_bangla_dish.m3u8
@@ -214,37 +214,25 @@ http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Movies
-http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Gold Select
-#EXTGRP:Movies
-http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RK
-#EXTINF:0,UTV HD
-#EXTGRP:Movies
-http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=SS
+http://stream.dhakaflix.com:8081/StarGold/tracks-v1a1/playlist.m3u8
 #EXTINF:0,UTV Action
 #EXTGRP:Movies
-http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+http://stream.dhakaflix.com:8081/live/utvaction/chunks.m3u8
 #EXTINF:0,Sony MAX
 #EXTGRP:Movies
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony WAH
-#EXTGRP:Movies
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0,Colors Cineplex
 #EXTGRP:Movies
-http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+http://stream.dhakaflix.com:8081/live/cinemaplex/chunks.m3u8
 #EXTINF:0,Rishtey Cineplex
 #EXTGRP:Movies
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:0,B4U Movies
-#EXTGRP:Movies
-http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
 #EXTINF:0,WOW Cinema
 #EXTGRP:Movies
 http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
-http://212.224.98.196:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=RK Bollywood
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
@@ -253,7 +241,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:0,&pictures
 #EXTGRP:Movies
-http://tv.pmcon.net/hls/stream14.m3u8
+http://stream.dhakaflix.com:8081/live/&picturesHD/chunks.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://10.16.100.204:8082/hls/m_tunes_dish.m3u8
@@ -335,6 +323,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:0,Sony AXN
 #EXTGRP:Entertainment
 http://stream.dhakaflix.com:8081/live/axn/chunks.m3u8
+#EXTINF:0,Star World
+#EXTGRP:Entertainment
+http://tv2.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:0,Blue Ant Entertainment
 #EXTGRP:Entertainment
 http://45.126.83.51/session/08b55556-f61c-11eb-a877-8ef1b2bb4097/dr9445/h/h16/02.m3u8
@@ -350,15 +341,15 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:0,&prive
 #EXTGRP:Movies
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0,Star Movies Select
+#EXTINF:0,Sony PIX
 #EXTGRP:Movies
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=SS
+http://stream.dhakaflix.com:8081/live/sonypix/chunks.m3u8
+#EXTINF:0,Star Movies
+#EXTGRP:Movies
+http://stream.dhakaflix.com:8081/live/moviesstar/chunks.m3u8
 #EXTINF:0,Movies Now
 #EXTGRP:Movies
 http://watchindia.net:8880/live/33253/72963/2102.ts
-#EXTINF:0,Sony PIX
-#EXTGRP:Movies
-http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF:0,MBC 2
 #EXTGRP:Movies
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
@@ -370,25 +361,13 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Movies
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-#EXTINF:0,HBO Family
-#EXTGRP:Movies
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
+http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0,HBO Signature
 #EXTGRP:Movies
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:0,HBO Hits
 #EXTGRP:Movies
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:0,Paramount
-#EXTGRP:Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
-#EXTINF:0,ASN Movies
-#EXTGRP:Movies
-http://tv2.ebox.live:8080/live/star-movies.m3u8
-#EXTINF:0,WB
-#EXTGRP:Movies
-http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0,VH1
 #EXTGRP:Music
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
