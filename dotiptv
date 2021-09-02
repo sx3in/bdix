@@ -64,7 +64,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:News
 http://103.205.133.19/hls/ekatoortv.m3u8
@@ -103,7 +103,7 @@ http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+http://stream.dhakaflix.com:8081/live/nk-tsports/playlist.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Infotainment
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
@@ -448,67 +448,61 @@ https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_480p_chunklist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
-http://tv.pmcon.net/hls/stream12.m3u8
+http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
-http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
+http://103.102.27.172:6464/Channel-2/index.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
-http://tv.pmcon.net/hls/stream15.m3u8
+http://stream.dhakaflix.com:8081/play/604/chunks.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RK
+http://103.102.27.172:6464/Channel-3/index.m3u8
 #EXTINF:0,Star Sports 3
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-1/index.m3u8
+http://103.102.27.172:6464/Channel-4/index.m3u8
 #EXTINF:0,Sony SIX
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-3/index.m3u8
+http://stream.dhakaflix.com:8081/live/sonysix.m3u8/chunks.m3u8
 #EXTINF:0,Sony TEN1
 #EXTGRP:Sports
-http://tv.pmcon.net/hls/stream40.m3u8
+http://stream.dhakaflix.com:8081/live/sonyten1/chunks.m3u8
 #EXTINF:0,Sony TEN2
 #EXTGRP:Sports
-http://tv.pmcon.net/hls/stream39.m3u8
+http://stream.dhakaflix.com:8081/live/sonyten2/chunks.m3u8
 #EXTINF:0,Sony TEN3
 #EXTGRP:Sports
-http://10.16.100.203:8082/bangla/ten_3_720.m3u8
+http://stream.dhakaflix.com:8081/live/sonyten3/chunks.m3u8
 #EXTINF:0,Sony TEN4
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-2/index.m3u8
+http://stream.dhakaflix.com:8081/live/mystream/chunks.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
-http://185.180.15.17:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
+http://stream.dhakaflix.com:8081/hls/btvworld.m3u8/playlist.m3u8
 #EXTINF:0,Ten Cricket
 #EXTGRP:Sports
-http://180.210.191.2/hls/stream34.m3u8
+http://stream.dhakaflix.com:8081/hls/stream34.m3u8/playlist.m3u8
+#EXTINF:0,PTV Sports
+#EXTGRP:Sports
+http://stream.dhakaflix.com:8081/live/ptvsports.m3u8/chunks.m3u8
 #EXTINF:0,Willow Cricket
 #EXTGRP:Sports
-http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
+http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8
 #EXTINF:0,Sky Sports Cricket
 #EXTGRP:Sports
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:0,Sky Sports Football
 #EXTGRP:Sports
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:0,PTV Sports
-#EXTGRP:Sports
-http://103.102.27.172:6464/Channel-4/index.m3u8
-#EXTINF:0,beIN Sports
-#EXTGRP:Sports
-http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
-#EXTINF:0,BT Sport
-#EXTGRP:Sports
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:0,ESPN
-#EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:0,FOX Sports
 #EXTGRP:Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
-#EXTINF:0,WWE
+#EXTINF:0,beIN Sports
 #EXTGRP:Sports
-http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
+http://stream.dhakaflix.com:8081/live/bensportsextra/chunks.m3u8
+#EXTINF:0,BT Sport
+#EXTGRP:Sports
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:0,Redbull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
