@@ -19,13 +19,13 @@ http://stream.dhakaflix.com:8081/hls/atnbangla.m3u8/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:0,Ekushey TV
 #EXTGRP:Entertainment
-http://10.16.100.205/hls/21etv.m3u8
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 #EXTINF:0,NTV
 #EXTGRP:Entertainment
 http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:0,RTV
 #EXTGRP:Entertainment
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+http://10.16.100.203:8082/bangla/rTV_local.m3u8
 #EXTINF:0,Boishakhi TV
 #EXTGRP:Entertainment
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
@@ -64,7 +64,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Sports
-http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:News
 http://103.205.133.19/hls/ekatoortv.m3u8
@@ -94,7 +94,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 http://stream.dhakaflix.com:8081/hls/banglatv.m3u8/chunks.m3u8
 #EXTINF:0,Duronto TV
 #EXTGRP:Kids
-http://103.157.237.18:8000/play/132
+http://stream.dhakaflix.com:8081/Nick/english/chunks.m3u8
 #EXTINF:0,Nagorik TV
 #EXTGRP:Entertainment
 http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8
@@ -122,15 +122,18 @@ http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:0,Sun Bangla
+#EXTGRP:Entertainment
+http://stream.dhakaflix.com:8081/live/bbcearth/chunks.m3u8
 #EXTINF:0,Aakash Aath
 #EXTGRP:Entertainment
-http://10.16.100.204:8082/hls/akash_aat_local.m3u8
+http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8
 #EXTINF:0,Enter10 Bangla
 #EXTGRP:Entertainment
 http://idvd.multitvsolution.com/idvo/enter10bangla.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
-http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
 #EXTINF:0,Khushboo Bangla
 #EXTGRP:Movies
 http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
@@ -152,6 +155,9 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:0,News18 Bangla
 #EXTGRP:News
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:0,Kolkata TV
+#EXTGRP:News
+http://10.16.100.204:8082/hls/kolkatatv_local.m3u8
 #EXTINF:0,Pratidin Time
 #EXTGRP:News
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
@@ -178,7 +184,7 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Kids
-http://stream.dhakaflix.com:8081/Nick/english/chunks.m3u8
+http://103.157.237.18:8000/play/132
 #EXTINF:0,Nickelodeon Sonic
 #EXTGRP:Kids
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
@@ -199,19 +205,16 @@ http://stream.dhakaflix.com:8081/SonyTVHD/tracks-v1a1/playlist.m3u8
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://stream.dhakaflix.com:8081/Star_Plus/tracks-v1a1/playlist.m3u8
-#EXTINF:0,Big Magic
-#EXTGRP:Entertainment
-https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+http://10.16.100.200:8082/hls/star_Plus_local.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Entertainment
-https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 #EXTINF:0,&tv
 #EXTGRP:Entertainment
 http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
-http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Movies
 http://stream.dhakaflix.com:8081/StarGold/tracks-v1a1/playlist.m3u8
@@ -241,7 +244,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:0,&pictures
 #EXTGRP:Movies
-http://stream.dhakaflix.com:8081/live/&picturesHD/chunks.m3u8
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Music
 http://10.16.100.200:8082/hls/m_tuNes_local.m3u8
@@ -287,9 +290,6 @@ http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Infotainment
 http://stream.dhakaflix.com:8081/live/natgeo/chunks.m3u8
-#EXTINF:0,Sony BBC Earth
-#EXTGRP:Infotainment
-http://stream.dhakaflix.com:8081/live/bbcearth/chunks.m3u8
 #EXTINF:0,Love Nature
 #EXTGRP:Infotainment
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
@@ -356,6 +356,9 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 #EXTINF:0,FOX Movies
 #EXTGRP:Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Lotus Macau
+#EXTGRP:Movies
+http://stream.dhakaflix.com:8081/hls/stream34.m3u8/playlist.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/hbo.m3u8
@@ -448,28 +451,28 @@ https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_480p_chunklist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-1/index.m3u8
+http://10.16.100.207:8082/sports/star_sportsselect1_local.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
 http://103.102.27.172:6464/Channel-2/index.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
-http://stream.dhakaflix.com:8081/play/604/chunks.m3u8
+http://10.16.100.207:8082/sports/star_sports_1_local.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-3/index.m3u8
+http://stream.dhakaflix.com:8081/play/604/chunks.m3u8
 #EXTINF:0,Star Sports 3
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-4/index.m3u8
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:0,Sony SIX
 #EXTGRP:Sports
-http://stream.dhakaflix.com:8081/live/sonysix.m3u8/chunks.m3u8
+http://stream.dhakaflix.com:8081/live/ptvsports.m3u8/chunks.m3u8
 #EXTINF:0,Sony TEN1
 #EXTGRP:Sports
 http://stream.dhakaflix.com:8081/live/sonyten1/chunks.m3u8
 #EXTINF:0,Sony TEN2
 #EXTGRP:Sports
-http://stream.dhakaflix.com:8081/live/sonyten2/chunks.m3u8
+http://10.16.100.207:8082/sports/sony_ten2_local.m3u8
 #EXTINF:0,Sony TEN3
 #EXTGRP:Sports
 http://stream.dhakaflix.com:8081/live/sonyten3/chunks.m3u8
@@ -479,12 +482,9 @@ http://stream.dhakaflix.com:8081/live/mystream/chunks.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
 http://stream.dhakaflix.com:8081/hls/btvworld.m3u8/playlist.m3u8
-#EXTINF:0,Ten Cricket
-#EXTGRP:Sports
-http://stream.dhakaflix.com:8081/hls/stream34.m3u8/playlist.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
-http://stream.dhakaflix.com:8081/live/ptvsports.m3u8/chunks.m3u8
+http://stream.dhakaflix.com:8081/live/sonysix.m3u8/chunks.m3u8
 #EXTINF:0,Willow Cricket
 #EXTGRP:Sports
 http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8
