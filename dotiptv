@@ -122,9 +122,6 @@ http://stream.dhakaflix.com:8081/live/bbcearth/chunks.m3u8
 #EXTINF:0,Aakash Aath
 #EXTGRP:Entertainment
 http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8
-#EXTINF:0,Enter10 Bangla
-#EXTGRP:Entertainment
-http://idvd.multitvsolution.com/idvo/enter10bangla.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
 http://10.16.100.204:8082/hls/sony_aat_local.m3u8
@@ -173,9 +170,6 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0,Pogo
 #EXTGRP:Kids
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-#EXTINF:0,Discovery Kids
-#EXTGRP:Kids
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Kids
 http://103.157.237.18:8000/play/132
@@ -194,9 +188,6 @@ http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://stream.dhakaflix.com:8081/SonyTVHD/tracks-v1a1/playlist.m3u8
-#EXTINF:0,Sony SAB
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
 http://10.16.100.200:8082/hls/star_Plus_local.m3u8
@@ -356,21 +347,21 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 #EXTINF:0,CNN
 #EXTGRP:News
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:0,BBC World News
-#EXTGRP:News
-http://stream.dhakaflix.com:8081/live/bbcnews/chunks.m3u8
 #EXTINF:0,Aljazeera
 #EXTGRP:News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:News
+http://stream.dhakaflix.com:8081/live/bbcnews/chunks.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:News
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
-#EXTINF:0,RT
-#EXTGRP:News
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 #EXTINF:0,France 24
 #EXTGRP:News
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
+#EXTINF:0,RT
+#EXTGRP:News
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:News
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
@@ -386,9 +377,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:0,CNA
 #EXTGRP:News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0,Makkah TV
-#EXTGRP:News
-http://stream.dhakaflix.com:8081/live/makka/chunks.m3u8
 #EXTINF:0,TLC
 #EXTGRP:Infotainment
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -458,9 +446,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0,beIN Sports
 #EXTGRP:Sports
 http://stream.dhakaflix.com:8081/live/bensportsextra/chunks.m3u8
-#EXTINF:0,BT Sport
-#EXTGRP:Sports
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:0,Redbull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
