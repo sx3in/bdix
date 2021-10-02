@@ -100,7 +100,7 @@ http://stream.dhakaflix.com:8081/live/duronto/chunks.m3u8
 http://10.16.100.213:8080/hls/Nagorik.m3u8
 #EXTINF:0,Ananda TV
 #EXTGRP:Movies
-https://cdn.nowhdtime.com.bd/j-AnandaTv/tracks-v1a1/mono.m3u8
+https://tempdot.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Sports
 http://172.22.22.76/live/feed1002/index.m3u8
@@ -358,7 +358,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://stream.dhakaflix.com:8081/live/bbcnews/chunks.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:News
-http://stream.dhakaflix.com:8081/live/dwnews/chunks.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 #EXTINF:0,France 24
 #EXTGRP:News
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -380,18 +380,27 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:0,CNA
 #EXTGRP:News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,QuranTV Masjid al-Haram Mecca
+#EXTGRP:News
+http://10.16.100.213:8080/hls/qurantv.m3u8
+#EXTINF:0,SunnahTV Al-Masjid an-Nabawi Medina
+#EXTGRP:News
+http://10.16.100.213:8080/hls/sunnahtv.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
-http://172.27.27.3:8081/local/star-sports-select-2-hd/chunks.m3u8
+http://10.16.100.213:8080/hls/starsportsselect2.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
 http://stream.dhakaflix.com:8081/play/604/chunks.m3u8
+#EXTINF:0,Star Sports 3
+#EXTGRP:Sports
+http://10.16.100.213:8080/hls/starsports1.m3u8
 #EXTINF:0,SIX
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonysix.m3u8
@@ -404,6 +413,9 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:0,TEN3
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:0,TEN4
+#EXTGRP:Sports
+http://10.16.100.213:8080/hls/sonyten3.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
@@ -419,12 +431,15 @@ http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:0,Sky Sports Football
 #EXTGRP:Sports
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:0,SS La Liga
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:0,FOX Sports
 #EXTGRP:Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
-#EXTINF:0,Super Sports
+#EXTINF:0,ESPN
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/channel9.m3u8
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:0,Redbull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
