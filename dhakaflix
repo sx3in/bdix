@@ -149,24 +149,27 @@ http://10.16.100.213:8080/hls/kolkatatv.m3u8
 #EXTINF:0,Pratidin Time
 #EXTGRP:News
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:0,YAY
+#EXTGRP:Infotainment
+http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:Infotainment
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:0,Pogo
 #EXTGRP:Infotainment
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-#EXTINF:0,Disney Channel
-#EXTGRP:Infotainment
-http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF:0,Hungama TV
 #EXTGRP:Infotainment
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
-#EXTINF:0,YAY
+#EXTINF:0,Disney Channel
 #EXTGRP:Infotainment
-http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
-#EXTINF:0,PBS Kids
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/1.m3u8
+#EXTINF:0,Disney XD
 #EXTGRP:Infotainment
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
+#EXTINF:0,Disney Jr.
+#EXTGRP:Infotainment
+http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
@@ -176,6 +179,9 @@ http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:0,Nick Jr.
 #EXTGRP:Infotainment
 http://103.153.39.34:8000/play/a04r/index.m3u8
+#EXTINF:0,PBS Kids
+#EXTGRP:Infotainment
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0,Marvel HQ
 #EXTGRP:Infotainment
 http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
