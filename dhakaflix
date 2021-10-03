@@ -130,7 +130,7 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Music
-http://10.16.100.213:8080/hls/sangeetbangla.m3u8
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,ABP Ananda
 #EXTGRP:News
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
@@ -155,9 +155,9 @@ https://feed.play.mv/live/10005200/QjZ4g9TmAa/1.m3u8
 #EXTINF:0,PBS Kids
 #EXTGRP:Infotainment
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0,YAY
+#EXTINF:0,Animax
 #EXTGRP:Infotainment
-http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
+http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
@@ -167,9 +167,9 @@ http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:0,Nick Jr.
 #EXTGRP:Infotainment
 http://103.153.39.34:8000/play/a04r/index.m3u8
-#EXTINF:0,Marvel HQ
+#EXTINF:0,YAY
 #EXTGRP:Infotainment
-http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
+http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF:0,Discovery Kids
 #EXTGRP:Infotainment
 https://idvd.multitvsolution.com:443/idvo/discoverykidshindi_540p/index.m3u8
@@ -364,16 +364,16 @@ https://cllive.itworkscdn.net/ksasunnalive/token=nva=1633259379~dirs=1~hash=0492
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
-http://10.16.100.213:8080/hls/starsportsselect2.m3u8
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
-http://stream.dhakaflix.com:8081/play/604/chunks.m3u8
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:0,Star Sports 3
 #EXTGRP:Sports
-http://10.16.100.213:8080/hls/starsports1.m3u8
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:0,SIX
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonysix.m3u8
@@ -388,7 +388,7 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:0,TEN4
 #EXTGRP:Sports
-http://10.16.100.213:8080/hls/sonyten3.m3u8
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 #EXTINF:0,Ten Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
@@ -404,15 +404,15 @@ http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:0,Sky Sports Football
 #EXTGRP:Sports
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:0,SS La Liga
-#EXTGRP:Sports
-http://tv2.ebox.live:8080/live/channel9.m3u8
-#EXTINF:0,FOX Sports
-#EXTGRP:Sports
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:0,FOX Sports
+#EXTGRP:Sports
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
+#EXTINF:0,SuperSport LaLiga
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:0,Redbull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
