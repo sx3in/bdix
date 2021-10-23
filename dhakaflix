@@ -7,7 +7,7 @@ http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Infotainment
-https://edge4.bioscopelive.com/hls/anonymous/HEhzY4Ydqb6ASqqeNmfJng/1634153042/sangsad_tv.m3u8
+http://172.22.22.76/live/feed1001/index.m3u8
 #EXTINF:0,BTV Chattogram
 #EXTGRP:Entertainment
 http://103.106.2.149:13456/btv_ctg.m3u8
@@ -25,7 +25,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 http://10.16.100.205:8082/bangla/nTv_localBd.m3u8
 #EXTINF:0,RTV
 #EXTGRP:Entertainment
-http://10.16.100.203:8082/bangla/rTV_local.m3u8
+http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:0,Boishakhi TV
 #EXTGRP:Entertainment
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
@@ -94,7 +94,7 @@ http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:0,Duronto TV
 #EXTGRP:Infotainment
-http://stream.dhakaflix.com:8081/live/duronto/chunks.m3u8
+http://172.22.22.76/live/feed1004/index.m3u8
 #EXTINF:0,Nagorik TV
 #EXTGRP:Entertainment
 http://10.16.100.205:8082/bangla/n@gOrik_1$tOp.m3u8
@@ -106,7 +106,7 @@ http://10.16.100.205:8082/bangla/anadatv_1stop.m3u8
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Infotainment
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
+http://172.22.22.76/live/feed1005/index.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
@@ -167,15 +167,15 @@ https://idvd.multitvsolution.com:443/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:0,Disney Channel
 #EXTGRP:Infotainment
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/1.m3u8
-#EXTINF:0,PBS Kids
-#EXTGRP:Infotainment
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:0,Nick Jr.
 #EXTGRP:Infotainment
 http://103.153.39.34:8000/play/a04r/index.m3u8
+#EXTINF:0,PBS Kids
+#EXTGRP:Infotainment
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0,Animax
 #EXTGRP:Infotainment
 http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
@@ -218,9 +218,6 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:0,9X Jalwa
 #EXTGRP:Music
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:0,8XM
-#EXTGRP:Music
-http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,NDTV 24x7
 #EXTGRP:News
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
@@ -239,15 +236,12 @@ http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:0,Blue Ant Entertainment
 #EXTGRP:Entertainment
 http://45.126.83.51/session/08b55556-f61c-11eb-a877-8ef1b2bb4097/dr9445/h/h16/02.m3u8
+#EXTINF:0,Arirang
+#EXTGRP:Entertainment
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 #EXTINF:0,TLC
 #EXTGRP:Entertainment
 http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:0,BBC Lifestyle
-#EXTGRP:Entertainment
-http://stream.dhakaflix.com:8081/live/natgeo/chunks.m3u8
-#EXTINF:0,Travel XP
-#EXTGRP:Entertainment
-http://mygoodstream.pw/proxy.php/https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,World Fashion Channel
 #EXTGRP:Entertainment
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
@@ -317,9 +311,6 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:0,NHK World
 #EXTGRP:News
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0,Arirang
-#EXTGRP:News
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 #EXTINF:0,CNA
 #EXTGRP:News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -365,7 +356,7 @@ http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0,Sky Sports Cricket
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:0,Sky Sports Football
+#EXTINF:0,Sky Sports Mix
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
 #EXTINF:0,ESPN
@@ -374,7 +365,7 @@ http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:0,FOX Sports
 #EXTGRP:Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
-#EXTINF:0,SuperSport LaLiga
+#EXTINF:0,Super Sport
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:0,Redbull TV
