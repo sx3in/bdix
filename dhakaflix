@@ -295,7 +295,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
+http://jo123.biz/jweb/m3u8.php?c=BBC_World_News&q=800&e=.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
