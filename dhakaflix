@@ -70,7 +70,7 @@ https://last.gcdn.co/IND425/tracks-v1a1/mono.m3u8
 https://last.gcdn.co/IND429/tracks-v1a1/mono.m3u8
 #EXTINF:0,Asian TV
 #EXTGRP:Local
-http://172.22.22.76/live/feed1001/index.m3u8
+http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:0,SATV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
@@ -355,7 +355,7 @@ http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:0,TEN1
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:0,TEN2
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
