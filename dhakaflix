@@ -200,12 +200,15 @@ http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:0,Sony Aath
+#EXTGRP:Entertainment
+http://jupiter.bdcabletv.com/SonyAath/video.m3u8
 #EXTINF:0,Khushboo Bangla
 #EXTGRP:Entertainment
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 #EXTINF:0,Zee Bangla Cinema
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
 #EXTINF:0,Star Jalsha Movies
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
