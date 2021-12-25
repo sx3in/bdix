@@ -7,7 +7,7 @@ http://103.106.2.149:13456/btv.m3u8
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Local
-http://172.22.22.76/live/feed1005/index.m3u8
+http://103.106.2.149:13456/sangsad.m3u8
 #EXTINF:0,BTV Chattogram
 #EXTGRP:Local
 http://103.106.2.149:13456/btv_ctg.m3u8
@@ -103,7 +103,7 @@ http://172.22.22.76/live/feed1004/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Local
-http://103.81.104.118/hls/t-sports.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
 http://103.81.104.118/hls/nexus.m3u8
@@ -185,9 +185,9 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:0,Disney Channel
 #EXTGRP:Entertainment
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/1.m3u8
-#EXTINF:0,Nickelodeon
+#EXTINF:0,Animax
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/nick.m3u8
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:0,PBS Kids
 #EXTGRP:Entertainment
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -211,31 +211,34 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-plus.m3u8
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/colors.m3u8
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Entertainment
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Gold
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-gold.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:0,MAX
 #EXTGRP:Entertainment
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,PIX
+#EXTINF:0,Star Gold
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sony-pix.m3u8
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:0,Star World
+#EXTGRP:Entertainment
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Movies
 #EXTGRP:Entertainment
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0,PIX
+#EXTGRP:Entertainment
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Entertainment
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -266,12 +269,12 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:0,Kadak Hits
 #EXTGRP:Music
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:0,Boogle Bollywood
+#EXTINF:0,Dil Se
 #EXTGRP:Music
-https://live.wmncdn.net/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:0,Desi Channel
+https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+#EXTINF:0,Pop Pataka
 #EXTGRP:Music
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/chunks.m3u8
+https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
 #EXTINF:0,VH1 Italia
 #EXTGRP:Music
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -329,9 +332,9 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:0,TEN3
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
-#EXTINF:0,Ten Sports
+#EXTINF:0,Geo Super
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
