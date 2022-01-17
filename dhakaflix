@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,BTV
+#EXTINF:0,BTV HD
 #EXTGRP:Local
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:0,BTV World
@@ -55,34 +55,34 @@ https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/s
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0,Maasranga TV
 #EXTGRP:Local
-http://208.86.19.21/686.stream/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/playlist.m3u8
 #EXTINF:0,Channel 9
 #EXTGRP:Local
-http://208.86.19.21/608.stream/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/playlist.m3u8
 #EXTINF:0,Channel 24
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Local
-http://172.22.22.76/live/feed1001/index.m3u8
+http://103.70.140.27:8080/hls/gtv.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:Local
-http://208.86.19.21/604.stream/index.m3u8
+http://172.22.22.76/live/feed1004/index.m3u8
 #EXTINF:0,Asian TV
 #EXTGRP:Local
-http://172.22.22.76/live/feed1004/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
 #EXTINF:0,SATV
 #EXTGRP:Local
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:Local
-http://208.86.19.21/612.stream/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:0,Jamuna TV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0,Deepto TV
 #EXTGRP:Local
-http://208.86.19.21/609.stream/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/playlist.m3u8
 #EXTINF:0,DBC 24/7 News
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -115,7 +115,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
-http://jo123.biz/jweb/m3u8.php?c=BBC_World_News&q=800&e=.m3u8
+http://172.22.22.76/live/feed1001/index.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
@@ -163,7 +163,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:0,Discovery
 #EXTGRP:Entertainment
-https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Entertainment
 http://103.81.104.118/hls/wild.m3u8
