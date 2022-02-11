@@ -22,7 +22,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:0,NTV
 #EXTGRP:Local
-https://live.bongobd.com:1443/hls/2a7xOFeD9X4d-1jvmSWcGQ/1644590129/ntv_low/index.m3u8
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:0,RTV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
@@ -34,26 +34,26 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:0,Desh TV
 #EXTGRP:Local
-http://172.17.50.112/live/antbd1003/index.m3u8
+http://172.22.22.76/live/feed1001/index.m3u8
 #EXTINF:0,My TV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0,ATN News
 #EXTGRP:Local
-https://live.bongobd.com:1443/hls/eNDUGFCkgyGBCpDu5EI5hQ/1644590349/atn_news_low/index.m3u8
+http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:0,Mohona TV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0,Bijoy TV
 #EXTGRP:Local
 https://rhridoy136.shortcm.li/bijoytv.m3u8
-#EXTINF:0,Somoy TV
+#EXTINF:0,Somoy
 #EXTGRP:Local
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:0,Independent TV
+#EXTINF:0,Independent
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:0,Maasranga TV
+#EXTINF:0,Maasranga
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/playlist.m3u8
 #EXTINF:0,Channel 9
@@ -68,19 +68,19 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:Local
 http://103.159.4.38:8080/BD-BANGLA-7/index.m3u8
-#EXTINF:0,Asian TV
+#EXTINF:0,Asian
 #EXTGRP:Local
 http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
 #EXTINF:0,SATV
 #EXTGRP:Local
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:0,Jamuna TV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:0,Deepto TV
+#EXTINF:0,Deepto
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/playlist.m3u8
 #EXTINF:0,DBC 24/7 News
@@ -106,7 +106,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
-https://live.bongobd.com:1443/hls/RQozDsYMaFMiaoMUjweWMw/1644588133/nexus_tv_low/index.m3u8
+http://172.22.22.76/live/feed1006/index.m3u8
 #EXTINF:0,CNN
 #EXTGRP:News
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
