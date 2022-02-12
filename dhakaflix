@@ -34,13 +34,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:0,Desh TV
 #EXTGRP:Local
-http://172.22.22.76/live/feed1001/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 #EXTINF:0,My TV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0,ATN News
 #EXTGRP:Local
-http://172.22.22.76/live/feed1002/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:0,Mohona TV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -115,7 +115,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
-https://live.bongobd.com:1443/hls/bJwf5fpGNAe8IGMTTDgi4Q/1644588091/bbc_world_low/index.m3u8
+http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
@@ -202,10 +202,10 @@ http://172.17.50.112/live/antbd1004/index.m3u8
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
-http://jupiter.bdcabletv.com/SonyAath/video.m3u8
-#EXTINF:0,Sun Bangla
+http://172.22.22.76/live/feed1001/index.m3u8
+#EXTINF:0,Akash Bangla
 #EXTGRP:Entertainment
-http://208.86.19.21/903.stream/index.m3u8
+http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:0,Khushboo Bangla
 #EXTGRP:Entertainment
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
@@ -232,7 +232,7 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:0,Star Gold
 #EXTGRP:Entertainment
-http://208.86.19.21/717.stream/index.m3u8
+http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:0,MAX
 #EXTGRP:Entertainment
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -253,13 +253,13 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,PIX
 #EXTGRP:Entertainment
-http://103.81.104.118/hls/sonypixhd.m3u8
-#EXTINF:0,UTV
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:0,HBO
 #EXTGRP:Entertainment
-http://208.86.19.21/723.stream/index.m3u8
+http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0,Lotus Macau
 #EXTGRP:Entertainment
-https://live.bongobd.com:1443/hls/h272BI9E6x6rFjKEqVfJlA/1644588034/lotus_macau_low/index.m3u8
+http://103.81.104.118/hls/lotus.m3u8
 #EXTINF:0,Travel XP
 #EXTGRP:Entertainment
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -325,7 +325,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
-http://172.22.22.76/live/feed1002/index.m3u8
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
 http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
@@ -334,7 +334,10 @@ http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 http://172.17.50.112/live/antbd1007/index.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
-http://172.22.22.76/live/feed1003/index.m3u8
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:0,Star Sports Hindi
+#EXTGRP:Sports
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:0,SIX
 #EXTGRP:Sports
 http://172.17.50.112/live/antbd1006/index.m3u8
@@ -346,10 +349,7 @@ http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:0,TEN3
 #EXTGRP:Sports
-http://208.86.19.21:80/713.stream/index.m3u8
-#EXTINF:0,Ten Sports
-#EXTGRP:Sports
-http://208.86.19.21/711.stream/index.m3u8
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
@@ -364,10 +364,10 @@ http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:0,Willow Cricket
 #EXTGRP:Sports
-http://208.86.19.21/731.stream/index.m3u8
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0,Super Sport
 #EXTGRP:Sports
-http://cro.hockeynews.club/live/1/chunks.m3u8#EXTINF:0,Sky Sports
+http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:0,FOX Sports
 #EXTGRP:Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
