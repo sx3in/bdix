@@ -70,7 +70,7 @@ http://103.84.253.5/live/4/index.m3u8
 http://103.159.4.38:8080/BD-BANGLA-7/index.m3u8
 #EXTINF:0,Asian
 #EXTGRP:Local
-http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0,SATV
 #EXTGRP:Local
 http://172.22.22.76/live/feed1003/index.m3u8
@@ -88,7 +88,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 #EXTINF:0,News 24
 #EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
 #EXTINF:0,Bangla TV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
@@ -124,7 +124,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/strea
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0,RT
 #EXTGRP:News
-https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0,TRT World
 #EXTGRP:News
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
@@ -178,7 +178,7 @@ https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0,RT Documentary
 #EXTGRP:Entertainment
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,CGTN Documentary
 #EXTGRP:Entertainment
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -325,7 +325,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
 http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
