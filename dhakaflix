@@ -85,7 +85,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/playlist.m3u8
 #EXTINF:0,DBC 24/7 News
 #EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 #EXTINF:0,News 24
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
@@ -103,7 +103,7 @@ http://172.22.22.76/live/feed1005/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Local
-http://103.84.253.5/live/0/index.m3u8
+http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
 http://172.22.22.76/live/feed1006/index.m3u8
@@ -115,7 +115,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
-http://172.17.50.112/live/antbd1003/index.m3u8
+http://172.17.50.112/live/antbd1004/index.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
@@ -193,19 +193,19 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
-http://172.17.50.112/live/antbd1004/index.m3u8
+http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
-http://172.22.22.76/live/feed1001/index.m3u8
-#EXTINF:0,Akash Bangla
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:0,Enter10 Bangla
 #EXTGRP:Entertainment
-http://172.22.22.76/live/feed1002/index.m3u8
+https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #EXTINF:0,Khushboo Bangla
 #EXTGRP:Entertainment
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
@@ -298,7 +298,7 @@ http://ilove.livebox.co.in/wowinhls/live.m3u8
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:0,Dil Se
 #EXTGRP:Music
-https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0,Pop Pataka
 #EXTGRP:Music
 https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
