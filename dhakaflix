@@ -193,10 +193,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
-http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
 http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
@@ -214,10 +214,10 @@ http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:0,Star Jalsha Movies
 #EXTGRP:Entertainment
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
@@ -236,9 +236,9 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:0,MAX
 #EXTGRP:Entertainment
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Colors Cineplex
+#EXTINF:0,MAX2
 #EXTGRP:Entertainment
-http://208.86.19.21/735.stream/index.m3u8
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:0,Colors Infinity
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
@@ -251,9 +251,9 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Movies
 #EXTGRP:Entertainment
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,PIX
+#EXTINF:0,SAB
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sony-pix.m3u8
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/hbo.m3u8
