@@ -16,7 +16,7 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0,Channel I
 #EXTGRP:Local
-http://tv2.ebox.live:8080/live/chi.m3u8
+https://somoy.appv.jagobd.com:444/somoy/channeli-8-org.stream/lplaylist.m3u8
 #EXTINF:0,Ekushey TV
 #EXTGRP:Local
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -140,6 +140,9 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:0,CNA
 #EXTGRP:News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,Australia News
+#EXTGRP:News
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:0,Bloomberg
 #EXTGRP:News
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -152,9 +155,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:0,India Today
 #EXTGRP:News
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:0,Times Now
-#EXTGRP:News
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:0,ABP Ananda
 #EXTGRP:News
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
