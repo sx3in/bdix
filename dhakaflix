@@ -106,7 +106,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
-http://172.22.22.76/live/feed1006/index.m3u8
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:0,Nick
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
@@ -154,7 +154,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:Infotainment
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
@@ -316,7 +316,7 @@ http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/starsports-1.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
