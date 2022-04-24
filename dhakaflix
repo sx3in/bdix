@@ -254,12 +254,6 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,MAX2
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
-#EXTINF:0,Blueant Entertainment
-#EXTGRP:Entertainment
-http://45.126.83.51/dr9445/h/h16/02.m3u8
-#EXTINF:0,Star World
-#EXTGRP:Entertainment
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Movies
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/star-movies.m3u8
@@ -278,9 +272,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 #EXTINF:0,MTV
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:0,B4U Music
-#EXTGRP:Entertainment
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:0,Showbox
 #EXTGRP:Entertainment
 https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
@@ -293,9 +284,6 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Entertainment
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/eef95ee1-8f3e-48c3-9331-c6b297ed01d8/0.m3u8
-#EXTINF:0,ilove Music
-#EXTGRP:Entertainment
-http://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,Kadak Hits
 #EXTGRP:Entertainment
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
@@ -334,7 +322,7 @@ http://tv2.ebox.live:8080/live/starsports-1.m3u8
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:0,Star Sports Hindi
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+https://s2.123zcast.com:8200/hls/starhindi.m3u8
 #EXTINF:0,SIX
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonysix.m3u8
@@ -353,15 +341,18 @@ http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:0,A Sports
-#EXTGRP:Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sky Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:0,Willow Cricket
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:0,FOX 501
+#EXTGRP:Sports
+https://s1.123zcast.com:8100/hls/yt43.m3u8
+#EXTINF:0,FOX Sports News
+#EXTGRP:Sports
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8#EXTINF:0,Super Sport
 #EXTINF:0,Super Sport
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/channel9.m3u8
@@ -371,6 +362,3 @@ http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:0,beIN Sports
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
-#EXTINF:0,FOX Sports News
-#EXTGRP:Sports
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8
