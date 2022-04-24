@@ -25,7 +25,7 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:0,RTV
 #EXTGRP:Local
-http://tv2.ebox.live:8080/live/rtv.m3u8
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:0,Boishakhi TV
 #EXTGRP:Local
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
@@ -46,7 +46,7 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0,Bijoy TV
 #EXTGRP:Local
-https://rhridoy136.shortcm.li/bijoytv.m3u8
+https://somoy.appv.jagobd.com:444/somoy/bijoy00.stream/playlist.m3u8
 #EXTINF:0,Somoy
 #EXTGRP:Local
 https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
@@ -55,7 +55,7 @@ https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/s
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0,Maasranga
 #EXTGRP:Local
-http://tv2.ebox.live:8080/live/maasranga.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:0,Channel 9
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/playlist.m3u8
@@ -107,90 +107,102 @@ http://172.17.50.112/live/antbd1005/index.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
 http://172.22.22.76/live/feed1006/index.m3u8
-#EXTINF:0,CNN
-#EXTGRP:News
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:0,Aljazeera
-#EXTGRP:News
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0,BBC World News
-#EXTGRP:News
-http://172.17.50.112/live/antbd1008/index.m3u8
-#EXTINF:0,Deutsche Welle
-#EXTGRP:News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
-#EXTINF:0,France 24
-#EXTGRP:News
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
-#EXTINF:0,RT
-#EXTGRP:News
-https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
-#EXTINF:0,TRT World
-#EXTGRP:News
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:0,CGTN
-#EXTGRP:News
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:0,NHK World
-#EXTGRP:News
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0,Arirang
-#EXTGRP:News
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
-#EXTINF:0,CNA
-#EXTGRP:News
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0,Australia News
-#EXTGRP:News
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:0,Bloomberg
-#EXTGRP:News
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:0,CNBC TV18
-#EXTGRP:News
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:0,NDTV 24x7
-#EXTGRP:News
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
-#EXTINF:0,India Today
-#EXTGRP:News
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:0,ABP Ananda
-#EXTGRP:News
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
-#EXTINF:0,News18 Bangla
-#EXTGRP:News
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:0,Discovery
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/discovery.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/natg.m3u8
-#EXTINF:0,Love Nature
-#EXTGRP:Entertainment
-https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
-#EXTINF:0,NASA TV
-#EXTGRP:Entertainment
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:0,RT Documentary
-#EXTGRP:Entertainment
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,CGTN Documentary
-#EXTGRP:Entertainment
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:0,Nick
-#EXTGRP:Entertainment
+#EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:0,PBS Kids
-#EXTGRP:Entertainment
+#EXTGRP:Infotainment
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:0,EBS Kids
-#EXTGRP:Entertainment
+#EXTGRP:Infotainment
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:0,Discovery
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Infotainment
+http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:0,Love Nature
+#EXTGRP:Infotainment
+https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:0,NASA TV
+#EXTGRP:Infotainment
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0,RT Documentary
+#EXTGRP:Infotainment
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:0,CGTN Documentary
+#EXTGRP:Infotainment
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0,Travel XP
+#EXTGRP:Infotainment
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,World Fashion Channel
+#EXTGRP:Infotainment
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:Infotainment
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0,Jasmin TV
+#EXTGRP:Infotainment
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w644671965.m3u8
+#EXTINF:0,CNN
+#EXTGRP:Infotainment
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:0,Aljazeera
+#EXTGRP:Infotainment
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:Infotainment
+http://172.17.50.112/live/antbd1008/index.m3u8
+#EXTINF:0,Deutsche Welle
+#EXTGRP:Infotainment
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+#EXTINF:0,France 24
+#EXTGRP:Infotainment
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
+#EXTINF:0,RT
+#EXTGRP:Infotainment
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+#EXTINF:0,TRT World
+#EXTGRP:Infotainment
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:0,CGTN
+#EXTGRP:Infotainment
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0,NHK World
+#EXTGRP:Infotainment
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0,Arirang
+#EXTGRP:Infotainment
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
+#EXTINF:0,CNA
+#EXTGRP:Infotainment
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,Australia News
+#EXTGRP:Infotainment
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:Infotainment
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:0,CNBC TV18
+#EXTGRP:Infotainment
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0,NDTV 24x7
+#EXTGRP:Infotainment
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:0,India Today
+#EXTGRP:Infotainment
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:0,ABP Ananda
+#EXTGRP:Infotainment
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:0,News18 Bangla
+#EXTGRP:Infotainment
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
@@ -221,6 +233,9 @@ http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0,SAB
+#EXTGRP:Entertainment
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
@@ -251,77 +266,62 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Movies
 #EXTGRP:Entertainment
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,SAB
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/hbo.m3u8
-#EXTINF:0,Travel XP
-#EXTGRP:Entertainment
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,World Fashion Channel
-#EXTGRP:Entertainment
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
-#EXTINF:0,Fashion TV
-#EXTGRP:Entertainment
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0,Jasmin TV
-#EXTGRP:Entertainment
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w644671965.m3u8
 #EXTINF:0,Sangeet Bangla
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,MTV
-#EXTGRP:Music
+#EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:0,B4U Music
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:0,Showbox
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 #EXTINF:0,9XM
-#EXTGRP:Music
+#EXTGRP:Entertainment
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0,9X Jalwa
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:0,Mastiii
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/eef95ee1-8f3e-48c3-9331-c6b297ed01d8/0.m3u8
 #EXTINF:0,ilove Music
-#EXTGRP:Music
+#EXTGRP:Entertainment
 http://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:0,Kadak Hits
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:0,Dil Se
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0,4fun TV
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0,VH1 Italia
-#EXTGRP:Music
+#EXTGRP:Entertainment
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0,Music Box
-#EXTGRP:Music
+#EXTGRP:Entertainment
 http://mhd116.iptv2022.com/p/UOyIKhmbNSvoyoCofDC8Lg,1649586186/streaming/musicbox/324/1/tracks-v2a1/mono.m3u8
 #EXTINF:0,Ocko Expres
-#EXTGRP:Music
+#EXTGRP:Entertainment
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:0,Radio m2o
-#EXTGRP:Music
+#EXTGRP:Entertainment
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0,V2Beat
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0,Music Top
-#EXTGRP:Music
+#EXTGRP:Entertainment
 http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
 #EXTINF:0,Kronehit TV
-#EXTGRP:Music
+#EXTGRP:Entertainment
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
