@@ -110,6 +110,9 @@ http://172.22.22.76/live/feed1006/index.m3u8
 #EXTINF:0,Nick
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:0,Pogo
+#EXTGRP:Infotainment
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
 #EXTINF:0,PBS Kids
 #EXTGRP:Infotainment
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -140,15 +143,9 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:0,Travel XP
 #EXTGRP:Infotainment
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,World Fashion Channel
+#EXTINF:0,Redbull TV
 #EXTGRP:Infotainment
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
-#EXTINF:0,Fashion TV
-#EXTGRP:Infotainment
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0,Jasmin TV
-#EXTGRP:Infotainment
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w644671965.m3u8
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:0,CNN
 #EXTGRP:Infotainment
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -269,6 +266,15 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF:0,World Fashion Channel
+#EXTGRP:Entertainment
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:Entertainment
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0,Jasmin TV
+#EXTGRP:Entertainment
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w644671965.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Entertainment
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
@@ -374,6 +380,3 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:0,ESPN
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
-#EXTINF:0,Redbull TV
-#EXTGRP:Sports
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
