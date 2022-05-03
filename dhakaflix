@@ -64,7 +64,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tv2.ebox.live:8080/live/ch24youtube.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Local
-http://172.22.22.76/live/feed1001/index.m3u8
+http://103.124.110.34:8082/gtv/index.m3u8
 #EXTINF:0,Ekattor TV
 #EXTGRP:Local
 http://172.22.22.76/live/feed1002/index.m3u8
@@ -103,7 +103,7 @@ http://172.22.22.76/live/feed1005/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Local
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+http://103.124.110.34:8082/tsp/index.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
@@ -223,7 +223,7 @@ http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:0,Star Jalsha Movies
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+http://ranapk.ddns.net/hls/jalshamovies.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/star-plus.m3u8
@@ -310,7 +310,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+http://ranapk.ddns.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
