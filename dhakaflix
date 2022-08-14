@@ -139,7 +139,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,CGTN Documentary
 #EXTGRP:Infotainment
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:0,Travel XP
 #EXTGRP:Infotainment
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -169,7 +169,7 @@ https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:0,CGTN
 #EXTGRP:Infotainment
-https://live.cgtn.com/1000/prog_index.m3u8
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:0,NHK World
 #EXTGRP:Infotainment
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
@@ -185,21 +185,27 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:0,Bloomberg
 #EXTGRP:Infotainment
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:0,CNBC TV18
+#EXTINF:0,BTV Quictake
 #EXTGRP:Infotainment
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:0,NDTV 24x7
 #EXTGRP:Infotainment
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:0,India Today
 #EXTGRP:Infotainment
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:0,ABP Ananda
+#EXTINF:0,TV9 Bangla
 #EXTGRP:Infotainment
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
-#EXTINF:0,News18 Bangla
+https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_360p/chunks.m3u8
+#EXTINF:0,R Plus News
 #EXTGRP:Infotainment
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/rplus-origin/live1/chunks.m3u8
+#EXTINF:0,Calcutta News
+#EXTGRP:Infotainment
+https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/chunklist_w421024176_b948304.m3u8
+#EXTINF:0,Zee 24 Ghanta
+#EXTGRP:Infotainment
+https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
