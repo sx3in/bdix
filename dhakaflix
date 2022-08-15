@@ -17,7 +17,7 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:0,Channel I
 #EXTGRP:Local
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:0,Ekushey TV
+#EXTINF:0,Ekushey Television
 #EXTGRP:Local
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:0,NTV
@@ -65,7 +65,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0,Gazi TV
 #EXTGRP:Local
 http://103.124.110.34:8082/gtv/index.m3u8
-#EXTINF:0,Ekattor TV
+#EXTINF:0,Ekattor
 #EXTGRP:Local
 http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:0,Asian
@@ -105,6 +105,12 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTGRP:Local
 http://103.124.110.34:8082/tsp/index.m3u8
 #EXTINF:0,Nexus Television
+#EXTGRP:Local
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+#EXTINF:0,Ekhon
+#EXTGRP:Local
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+#EXTINF:0,Global Television
 #EXTGRP:Local
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:0,Nick
