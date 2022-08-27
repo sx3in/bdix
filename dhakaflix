@@ -64,7 +64,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0,Gazi TV
 #EXTGRP:Local
-http://103.124.110.34:8082/gtv/index.m3u8
+http://103.135.133.3:8080/0.m3u8
 #EXTINF:0,Ekattor
 #EXTGRP:Local
 http://172.22.22.76/live/feed1002/index.m3u8
@@ -97,7 +97,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://172.22.22.76/live/feed1004/index.m3u8
 #EXTINF:0,Nagorik TV
 #EXTGRP:Local
-http://172.22.22.76/live/feed1005/index.m3u8
+http://5.188.182.90:25461/live/rizvyahmed9988/01880273462/3802.m3u8?token=ShJcU0BbQQNHAFINVFYACQkGVAEEA1xQVAMDD1YGAlYDAlFXVgJbCAQbGBpEF0dcWF1vWQIXXlIJUlAbRxFAV0NvXVYRCUEIVAkEAAJBGRtNWV1VRA9UTRMSC1NHXhEFAAkMEB8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cJFhQVCkZJGwpeRQpZSENTCxZFBBBWEAsSBQoFAkEVR1pbTVkXR0AbChJyIhdIQ1QaFlILF1pdXxIOEF4AFgFHFRZRRDxHXEpEQlUHWAETE1hAB0dIEV9QSGtRXF0NXAZNXVdZEBcDGwESHERYCw9YFg1FOhRaVhMKFgMFBVEOR0Q=
 #EXTINF:0,Ananda TV
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
@@ -112,7 +112,7 @@ http://103.168.91.228/hp-tv.m3u8
 http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
 #EXTINF:0,Global Television
 #EXTGRP:Local
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:0,Nick
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
@@ -328,13 +328,13 @@ http://ranapk.ddns.net/hls/Star_Sport_Select1HD.m3u8
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
-http://103.55.144.46/hls/stersports1hd.m3u8
+http://us-e1.watchindia.net:8880/live/26490/86400/2232.m3u8?token=TRINVkBbGwkUUwhSUQQEVVpZCQNbB1AAUlVUUQoBXVVQBlMEUlcNAFcSFRIXQxAGWVVmWlwSWApUUFcbGhBKBkRvDFMRCRsCBgIMB0YbQBdRVVwRAgBOGhYKARUCRwpRAwlXAAcRFRFTSE1VFlkDD2dcXEVRUwcaXA0QW1RJGwxYbwFSXlJXVxQKGwBGG0AKS0gbCVZFDlRKQQdeTBdYF1MSXxUBBQ8HFBwbUwtCDBdKQRsJGnImGkpBAE9MAFcQX18LFQkRVABDCBscRl4RPEpdSkdKVQNVAxFHDRpVG08UXQRPbFBWXVhVWkQNWAwQGgIbBxocQFUJDQxDVxdmE19URw0RAQEDAQAAA0ZK
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:0,Star Sports Hindi
 #EXTGRP:Sports
-https://s2.123zcast.com:8200/hls/starhindi.m3u8
+https://www.mediaserver.express/live/RV1AoezO/index.m3u8
 #EXTINF:0,SIX
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonysix.m3u8
@@ -346,7 +346,7 @@ http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:0,TEN3
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME/master_mdh.m3u8?hdnea=st=1661610343~exp=1661610643~acl=*~id=31b83fd2-87ed-4c44-8cd3-e32a592319bf~hmac=5ffcef6c871036cac0a42dbf14bfe65a32801480ee22f4fd01c0b8194d3a3b9b&originpath=/linear/hls/pb/event/ARSsLLOjSl2bsGjkQB2UAw/stream/1acdb69e-9a3f-43a0-828f-bb47700889af:SIN/master.m3u8
 #EXTINF:0,TEN Sports
 #EXTGRP:Sports
 http://logo.univisiontv.xyz:8080/live/Digi667457/Digi667457/1553.m3u8?token=TRAOWEBQQAIaUAMCDFRSDwEDBgwHVlJbUlYKWAhWWQgPUAAOAl1QCFxHHUFLFhFSVFg9UVERDQkFBQoVE0ZLXERtD10RAkAJClEIUxpOQUNcWAcaDwMbGkBZXRsLEQsIBwVVGx8aB0BMAEMNWQ48U1BDC1tQEQ1WRVxVFRNcVmZSVwtYXVxAAhpVE08aCxBHFw8MTVlfGxpSWU1LUEddGwwQVQsDCUAUGgZeFlYWEU4XD0B6cREbGlVITVxfQFFWWBBcG14LFwAaSRMKSz0RUkZBEF1UXlJKEgobCRMfGlRXSjlaXFYMXVsRWAxWEUENFwRAFBdeWFZZRFZLbkNRXRQIRAgADFcaRQ==
@@ -370,7 +370,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://89.187.179.134:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8?token=SBsLAhEJEF5EBw0DAQdWUlNQXQIEUFILBlRQUAsAWwsCWwABWgAAV1UUFBJLRUJRAFhmXlIQCgNXAFsYEEdLXEFmCgdAWxBRVhQUEkxYXVFDDwkbFEJZVkEKQQUKAgoLERVBBhoVVxYIV1RvXFRGXQJQGw1YR1xeTxIMWm1WXVRSVwdBWEMCRkoUUUNIEwpaFFlVGxRQWUYRURdREAgaCAcOUEFOQ1ELE1hMQkETChYjcRsbFFdIRgZeEF1dXBoDEVRQFlpDHkYPRWdCXUJERgRUVFJEEAoQUhJPFl9TQGZQVg0NBwJGDQlYSxICEwMDVBcVFVtdXlsXXxFrQltcGwkbUVZTUgNGGw==
 #EXTINF:0,ESPN
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonyespn.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-rTMM1biVsiiBKebmTz7rLmDKOHn0tf_PlP_JYSd66NkNyvW0FjlXeLToZ1pSOxdxoQp0nsTkZve6X3YNb5iOA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 #EXTINF:0,beIN Sports
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+https://live-ak.vimeocdn.com/exp=1661611994~acl=%2F632dcea1-6eef-4caf-9920-dc4a7fe465a6%2F%2A~hmac=4968319a416b31afaa9e038febcb9871ea7d7eda9cdf1c177b5b99f4674bef79/632dcea1-6eef-4caf-9920-dc4a7fe465a6/chunklist_b416000.m3u8
