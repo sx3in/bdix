@@ -103,13 +103,13 @@ http://172.22.22.76/live/feed1005/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Local
-http://103.124.110.34:8082/tsp/index.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+http://103.168.91.228/hp-tv.m3u8
 #EXTINF:0,Ekhon
 #EXTGRP:Local
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
 #EXTINF:0,Global Television
 #EXTGRP:Local
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
@@ -349,13 +349,13 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:0,TEN Sports
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
+http://logo.univisiontv.xyz:8080/live/Digi667457/Digi667457/1553.m3u8?token=TRAOWEBQQAIaUAMCDFRSDwEDBgwHVlJbUlYKWAhWWQgPUAAOAl1QCFxHHUFLFhFSVFg9UVERDQkFBQoVE0ZLXERtD10RAkAJClEIUxpOQUNcWAcaDwMbGkBZXRsLEQsIBwVVGx8aB0BMAEMNWQ48U1BDC1tQEQ1WRVxVFRNcVmZSVwtYXVxAAhpVE08aCxBHFw8MTVlfGxpSWU1LUEddGwwQVQsDCUAUGgZeFlYWEU4XD0B6cREbGlVITVxfQFFWWBBcG14LFwAaSRMKSz0RUkZBEF1UXlJKEgobCRMfGlRXSjlaXFYMXVsRWAxWEUENFwRAFBdeWFZZRFZLbkNRXRQIRAgADFcaRQ==
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sky Sports
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:0,Willow Cricket
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
@@ -367,7 +367,7 @@ https://s1.123zcast.com:8100/hls/yt43.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8#EXTINF:0,Super Sport
 #EXTINF:0,Super Sport
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/channel9.m3u8
+http://89.187.179.134:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8?token=SBsLAhEJEF5EBw0DAQdWUlNQXQIEUFILBlRQUAsAWwsCWwABWgAAV1UUFBJLRUJRAFhmXlIQCgNXAFsYEEdLXEFmCgdAWxBRVhQUEkxYXVFDDwkbFEJZVkEKQQUKAgoLERVBBhoVVxYIV1RvXFRGXQJQGw1YR1xeTxIMWm1WXVRSVwdBWEMCRkoUUUNIEwpaFFlVGxRQWUYRURdREAgaCAcOUEFOQ1ELE1hMQkETChYjcRsbFFdIRgZeEF1dXBoDEVRQFlpDHkYPRWdCXUJERgRUVFJEEAoQUhJPFl9TQGZQVg0NBwJGDQlYSxICEwMDVBcVFVtdXlsXXxFrQltcGwkbUVZTUgNGGw==
 #EXTINF:0,ESPN
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
