@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,BTV HD
 #EXTGRP:Local
-http://103.106.2.149:13456/btv.m3u8
+http://103.106.2.152:13456/btv.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:Local
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -103,7 +103,7 @@ http://5.188.182.90:25461/live/rizvyahmed9988/01880273462/3802.m3u8?token=ShJcU0
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Local
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
 http://103.168.91.228/hp-tv.m3u8
@@ -112,7 +112,7 @@ http://103.168.91.228/hp-tv.m3u8
 http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
 #EXTINF:0,Global Television
 #EXTGRP:Local
-http://103.109.56.116/live/skyfeed1001/index.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0,Nick
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
@@ -337,13 +337,13 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 https://www.mediaserver.express/live/RV1AoezO/index.m3u8
 #EXTINF:0,SIX
 #EXTGRP:Sports
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME/master_mdh.m3u8?hdnea=st=1662647284~exp=1662647584~acl=*~id=55df057c-93d9-4b8b-a299-63759dd5132a~hmac=c17a1ad0c1b7ec5deec0db7983c99de6a4213b3f4bf8bb829947ddec1316c0b3&originpath=/linear/hls/pb/event/ARSsLLOjSl2bsGjkQB2UAw/stream/fa23695c-8977-43c7-a427-5edaa2a27105:SIN/master.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI24ME-V3/master_mdh.m3u8?hdnea=st=1662898344~exp=1662898644~acl=*~id=ecea7c71-1379-4940-a840-f05bd36c5d97~hmac=d8f09282aa13b686d034c6c0d4bb68f468f4708c3078e6ee3b0593ed4abdfbd5&originpath=/linear/hls/pb/event/QNEZiPzpTXucyrbpCjdZTw/stream/2068d5c2-0846-4af0-9f7a-86b8b3c2dd95:SIN/master.m3u8
 #EXTINF:0,TEN1
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
 #EXTINF:0,TEN2
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
 #EXTINF:0,TEN3
 #EXTGRP:Sports
 https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME/master_mdh.m3u8?hdnea=st=1661610343~exp=1661610643~acl=*~id=31b83fd2-87ed-4c44-8cd3-e32a592319bf~hmac=5ffcef6c871036cac0a42dbf14bfe65a32801480ee22f4fd01c0b8194d3a3b9b&originpath=/linear/hls/pb/event/ARSsLLOjSl2bsGjkQB2UAw/stream/1acdb69e-9a3f-43a0-828f-bb47700889af:SIN/master.m3u8
