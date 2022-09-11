@@ -109,10 +109,10 @@ http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0,Ekhon
 #EXTGRP:Local
-http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
+http://194.233.77.24:5866/hls/shlive3.m3u8
 #EXTINF:0,Global Television
 #EXTGRP:Local
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+http://194.233.77.24:5866/hls/shlive2.m3u8
 #EXTINF:0,Nick
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
