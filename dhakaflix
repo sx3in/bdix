@@ -4,13 +4,13 @@
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:Local
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+http://nayeemparvez-btv.hopto.org:13456/btv_world.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Local
-http://103.106.2.149:13456/sangsad.m3u8
+http://nayeemparvez-btv.hopto.org:13456/sangsad.m3u8
 #EXTINF:0,BTV Chattogram
 #EXTGRP:Local
-http://103.106.2.149:13456/btv_ctg.m3u8
+http://nayeemparvez-btv.hopto.org:13456/btv_ctg.m3u8
 #EXTINF:0,ATN Bangla
 #EXTGRP:Local
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -67,7 +67,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0,Ekattor
 #EXTGRP:Local
-http://172.22.22.76/live/feed1002/index.m3u8
+http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:0,Asian
 #EXTGRP:Local
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -214,10 +214,10 @@ https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/chunklist_
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
-https://yuppcatchup.akamaized.net/preview/rupashibangala/1800.m3u8?hdnts=st=1612630459~exp=1612631059~acl=!*/20/preview/rupashibangala/*!/payload/yuppTVCom_61_-1_d8ba0603680e4389_BD_103
+http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
 http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
@@ -229,7 +229,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #EXTINF:0,Khushboo Bangla
 #EXTGRP:Entertainment
-http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+http://banglaip.ddns.net:1895/live/sananda/playlist.m3u8
 #EXTINF:0,Zee Bangla Cinema
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
@@ -238,13 +238,13 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://ranapk.ddns.net/hls/jalshamovies.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-plus.m3u8
+http://103.16.24.54:8080/channel3/index.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:0,SAB
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
+http://103.16.24.54:8080/channel8/index.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
@@ -259,19 +259,19 @@ http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=250&e=.m3u8
 #EXTINF:0,MAX
 #EXTGRP:Entertainment
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 #EXTINF:0,MAX2
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+http://103.16.24.54:8080/channel6/index.m3u8
 #EXTINF:0,Star Movies
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/hbo.m3u8
+http://103.16.24.54:8080/channel2/index.m3u8
 #EXTINF:0,World Fashion Channel
 #EXTGRP:Entertainment
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
@@ -328,16 +328,16 @@ http://ranapk.ddns.net/hls/Star_Sport_Select1HD.m3u8
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
-http://us-e1.watchindia.net:8880/live/26490/86400/2232.m3u8?token=TRINVkBbGwkUUwhSUQQEVVpZCQNbB1AAUlVUUQoBXVVQBlMEUlcNAFcSFRIXQxAGWVVmWlwSWApUUFcbGhBKBkRvDFMRCRsCBgIMB0YbQBdRVVwRAgBOGhYKARUCRwpRAwlXAAcRFRFTSE1VFlkDD2dcXEVRUwcaXA0QW1RJGwxYbwFSXlJXVxQKGwBGG0AKS0gbCVZFDlRKQQdeTBdYF1MSXxUBBQ8HFBwbUwtCDBdKQRsJGnImGkpBAE9MAFcQX18LFQkRVABDCBscRl4RPEpdSkdKVQNVAxFHDRpVG08UXQRPbFBWXVhVWkQNWAwQGgIbBxocQFUJDQxDVxdmE19URw0RAQEDAQAAA0ZK
+http://103.16.24.54:8080/channel1/index.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
-http://103.109.56.116/live/skyfeed1002/index.m3u8
+http://185.53.88.77:8070/live/asadmanzur/39e379b23d/3630.m3u8?token=ShUNAEFcElxEWgBRDgFbVgAMB1MAVFFfVAQFV1RXV1QID1IHBQ0EBAAaGEZKTREDAFhpWAUVDwoAAlNOFRcSBkNoDAUQDhJeUQ4CRhUbFw8MUBQLURsXSV9VQVgVUFNWCQFHTRBRSBIDSloFVWYHAxdcVVRDDVtMWl1PQFgMPgdUWgQPVhYKRFYaGEZQShNEW1tDXQ0bF1tfRREDQwdDWRMEV1AHFhxEBVdBCk1LGkRbF3h9QxsXXE5FBgxECw4NEw1HDAFBCERKGl0XZksGFRVHU1AMUkcbDBNSQBtADAJJaAYOXFpVBRJRWwpKG1lEUAAGE00VWFZYWBcNRT0RClUVX0MABwNQVRpJ
 #EXTINF:0,Star Sports Hindi
 #EXTGRP:Sports
 https://www.mediaserver.express/live/RV1AoezO/index.m3u8
 #EXTINF:0,SIX
 #EXTGRP:Sports
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI24ME-V3/master_mdh.m3u8?hdnea=st=1662898344~exp=1662898644~acl=*~id=ecea7c71-1379-4940-a840-f05bd36c5d97~hmac=d8f09282aa13b686d034c6c0d4bb68f468f4708c3078e6ee3b0593ed4abdfbd5&originpath=/linear/hls/pb/event/QNEZiPzpTXucyrbpCjdZTw/stream/2068d5c2-0846-4af0-9f7a-86b8b3c2dd95:SIN/master.m3u8
+http://103.16.24.54:8080/channel7/index.m3u8
 #EXTINF:0,TEN1
 #EXTGRP:Sports
 http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
@@ -358,7 +358,7 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:0,Willow Cricket
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/willow-cric.m3u8
+http://103.145.12.71:8070/live/asadmanzur/39e379b23d/2372.m3u8?token=ShUNAEFcElxEDg1UXV0HX1EBDwEFAFZaVFMHVFZTA1FQVQAEBwAIAFAaGEZKTREDAFhpWAUVDwsFBlFOFRcSBkNoDAUQDhJeUQ4CRhUbFw8MUBQLURsXSV9VQVgVV1dSBAZHTRBRSBIDSloFVWYHAxdcVVRDDVtMWl1PQFgMPgdUWgQPVhYKRFYaGEZQShNEW1tDXQ0bF1tfRREDQwdDWRMCXFgEFhxEBVdBCk1LGkRbF3h9QxsXXE5FBgxECw4NEw1HDAFBCERKGl0XZksGFRVHU1AMUkcbDBNSQBtADAJJaAYOXFpVBRJRWwpKG1lEUAAGE00VWFZYWBcNRT0RClUVX0MGAwdXUxpJ
 #EXTINF:0,FOX 501
 #EXTGRP:Sports
 https://s1.123zcast.com:8100/hls/yt43.m3u8
