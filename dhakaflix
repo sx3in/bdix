@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,BTV HD
 #EXTGRP:Local
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+http://77.68.8.133/ptvsports1/index.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:Local
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
