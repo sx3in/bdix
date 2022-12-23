@@ -7,10 +7,10 @@ http://77.68.8.133/ptvsports1/index.m3u8
 http://213.190.4.120:8080/hls/3/stream.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Local
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+http://103.143.235.50/stersports1hd/preview.mp4
 #EXTINF:0,BTV Chattogram
 #EXTGRP:Local
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
+http://103.143.235.50/starsports2/index.m3u8
 #EXTINF:0,ATN Bangla
 #EXTGRP:Local
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -103,16 +103,16 @@ http://nayeem-parvez.ml/Join-AllLiveSportsLinks/redline.php?indexm3u8=http://31.
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Local
-http://103.127.93.82:8234/TSports/tracks-v1a1/mono.m3u8
+http://103.143.235.50/LIVE2/index.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
-http://103.127.93.82:8234/TSports/tracks-v1a1/mono.m3u8
+http://103.143.235.50/LIVE2/preview.mp4
 #EXTINF:0,Ekhon
 #EXTGRP:Local
-http://103.145.12.71:8070/live/asadmanzur/39e379b23d/2372.m3u8?token=ShUNAEFcElxEXFcFWAsHX1QHAAYDUQBaVANQVgJVVAFVVFwEA1BRVV4aGEZKTREDAFhpWAUVDwsFBlFOFRcSBkNoDAUQDhJeUQ4CRhUbFw8MUBQLURsXSV9VQVgVUVZWBg5HTRBRSBIDSloFVWYHAxdcVVRDDVtMWl1PQFgMPgdUWgQPVhYKRFYaGEZQShNEW1tDXQ0bF1tfRREDQwdDWRMBVVQHFhxEBVdBCk1LGkRbF3h9QxsXXE5FBgxECw4NEw1HDAFBCERKGl0XZksGFRVHU1AMUkcbDBNSQBtADAJJaAYOXFpVBRJRWwpKG1lEUAAGE00VWFZYWBcNRT0RClUVX0MHBAdWVBpJ
+http://103.143.235.50/select2/index.m3u8
 #EXTINF:0,Global Television
 #EXTGRP:Local
-http://ae7f6ae4.rostelekom.xyz/iptv/KASEFU7Z8EG48L/2506/index.m3u8
+http://103.143.235.50/Star_Sport_Select1HD/index.m3u8
 #EXTINF:0,Nick
 #EXTGRP:Infotainment
 http://tv2.ebox.live:8080/live/nick.m3u8
