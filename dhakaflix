@@ -106,7 +106,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
-http://172.27.27.3:8088/hls/07_StarSports1.m3u8
+http://appcdn.jagobd.com:1933/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Ekhon
 #EXTGRP:Local
 http://172.27.27.3:8088/hls/08StarSports2.m3u8
@@ -130,7 +130,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
 #EXTINF:0,France 24
 #EXTGRP:Infotainment
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
+http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/fr24.stream/chunks.m3u8
 #EXTINF:0,RT
 #EXTGRP:Infotainment
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
@@ -259,7 +259,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
-http://ranapk.ddns.net/hls/Star_Sport_Select1HD.m3u8
+http://172.27.27.3:8088/hls/07_StarSports1.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
@@ -269,21 +269,18 @@ http://103.16.24.54:8080/channel1/index.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
 http://185.53.88.77:8070/live/asadmanzur/39e379b23d/3630.m3u8?token=ShUNAEFcElxEWgBRDgFbVgAMB1MAVFFfVAQFV1RXV1QID1IHBQ0EBAAaGEZKTREDAFhpWAUVDwoAAlNOFRcSBkNoDAUQDhJeUQ4CRhUbFw8MUBQLURsXSV9VQVgVUFNWCQFHTRBRSBIDSloFVWYHAxdcVVRDDVtMWl1PQFgMPgdUWgQPVhYKRFYaGEZQShNEW1tDXQ0bF1tfRREDQwdDWRMEV1AHFhxEBVdBCk1LGkRbF3h9QxsXXE5FBgxECw4NEw1HDAFBCERKGl0XZksGFRVHU1AMUkcbDBNSQBtADAJJaAYOXFpVBRJRWwpKG1lEUAAGE00VWFZYWBcNRT0RClUVX0MABwNQVRpJ
-#EXTINF:0,Star Sports Hindi
+#EXTINF:0,Star Sports 3
 #EXTGRP:Sports
 https://www.mediaserver.express/live/RV1AoezO/index.m3u8
-#EXTINF:0,SIX
-#EXTGRP:Sports
-http://103.16.24.54:8080/channel7/index.m3u8
-#EXTINF:0,TEN1
+#EXTINF:0,Sony Sports TEN1
 #EXTGRP:Sports
 http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
-#EXTINF:0,TEN2
+#EXTINF:0,Sony Sports TEN2
 #EXTGRP:Sports
 http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
-#EXTINF:0,TEN3
+#EXTINF:0,Sony Sports TEN5
 #EXTGRP:Sports
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME/master_mdh.m3u8?hdnea=st=1661610343~exp=1661610643~acl=*~id=31b83fd2-87ed-4c44-8cd3-e32a592319bf~hmac=5ffcef6c871036cac0a42dbf14bfe65a32801480ee22f4fd01c0b8194d3a3b9b&originpath=/linear/hls/pb/event/ARSsLLOjSl2bsGjkQB2UAw/stream/1acdb69e-9a3f-43a0-828f-bb47700889af:SIN/master.m3u8
+http://103.16.24.54:8080/channel7/index.m3u8
 #EXTINF:0,TEN Sports
 #EXTGRP:Sports
 http://logo.univisiontv.xyz:8080/live/Digi667457/Digi667457/1553.m3u8?token=TRAOWEBQQAIaUAMCDFRSDwEDBgwHVlJbUlYKWAhWWQgPUAAOAl1QCFxHHUFLFhFSVFg9UVERDQkFBQoVE0ZLXERtD10RAkAJClEIUxpOQUNcWAcaDwMbGkBZXRsLEQsIBwVVGx8aB0BMAEMNWQ48U1BDC1tQEQ1WRVxVFRNcVmZSVwtYXVxAAhpVE08aCxBHFw8MTVlfGxpSWU1LUEddGwwQVQsDCUAUGgZeFlYWEU4XD0B6cREbGlVITVxfQFFWWBBcG14LFwAaSRMKSz0RUkZBEF1UXlJKEgobCRMfGlRXSjlaXFYMXVsRWAxWEUENFwRAFBdeWFZZRFZLbkNRXRQIRAgADFcaRQ==
