@@ -113,45 +113,9 @@ http://172.27.27.3:8088/hls/08StarSports2.m3u8
 #EXTINF:0,Global Television
 #EXTGRP:Local
 http://172.27.27.3:8088/hls/16_SonySAB.m3u8
-#EXTINF:0,Nick
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:0,Pogo
-#EXTGRP:Infotainment
-http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
-#EXTINF:0,PBS Kids
-#EXTGRP:Infotainment
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0,EBS Kids
-#EXTGRP:Infotainment
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:0,Discovery
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/discovery.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/natg.m3u8
-#EXTINF:0,Love Nature
-#EXTGRP:Infotainment
-https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
-#EXTINF:0,NASA TV
-#EXTGRP:Infotainment
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:0,RT Documentary
-#EXTGRP:Infotainment
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,CGTN Documentary
-#EXTGRP:Infotainment
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:0,Travel XP
-#EXTGRP:Infotainment
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,Redbull TV
-#EXTGRP:Infotainment
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:0,Green TV
+#EXTGRP:Local
+http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/greentv.stream/chunks.m3u8
 #EXTINF:0,CNN
 #EXTGRP:Infotainment
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -197,21 +161,24 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:0,NDTV 24x7
 #EXTGRP:Infotainment
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
-#EXTINF:0,India Today
+#EXTINF:0,PBS Kids
 #EXTGRP:Infotainment
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:0,TV9 Bangla
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:0,NASA TV
 #EXTGRP:Infotainment
-https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_360p/chunks.m3u8
-#EXTINF:0,R Plus News
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0,RT Documentary
 #EXTGRP:Infotainment
-https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/rplus-origin/live1/chunks.m3u8
-#EXTINF:0,Calcutta News
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:0,CGTN Documentary
 #EXTGRP:Infotainment
-https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/chunklist_w421024176_b948304.m3u8
-#EXTINF:0,Zee 24 Ghanta
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:0,Travel XP
 #EXTGRP:Infotainment
-https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Redbull TV
+#EXTGRP:Infotainment
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
 http://103.16.24.54:8080/channel4/index.m3u8
@@ -224,12 +191,6 @@ http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:0,Enter10 Bangla
-#EXTGRP:Entertainment
-https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
-#EXTINF:0,Khushboo Bangla
-#EXTGRP:Entertainment
-http://banglaip.ddns.net:1895/live/sananda/playlist.m3u8
 #EXTINF:0,Zee Bangla Cinema
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
@@ -242,9 +203,6 @@ http://103.16.24.54:8080/channel3/index.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:0,SAB
-#EXTGRP:Entertainment
-http://103.16.24.54:8080/channel8/index.m3u8
 #EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
@@ -254,18 +212,12 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:0,Star Gold
-#EXTGRP:Entertainment
-http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
-#EXTINF:0,Star Gold Select
-#EXTGRP:Entertainment
-https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=250&e=.m3u8
 #EXTINF:0,MAX
 #EXTGRP:Entertainment
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
-#EXTINF:0,MAX2
+#EXTINF:0,Star Gold
 #EXTGRP:Entertainment
-http://103.16.24.54:8080/channel6/index.m3u8
+http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
 #EXTINF:0,Star Movies
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/star-movies.m3u8
@@ -281,36 +233,21 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Entertainment
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0,MTV
+#EXTINF:0,MTV Beats
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:0,Showbox
-#EXTGRP:Entertainment
-https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 #EXTINF:0,9XM
 #EXTGRP:Entertainment
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0,9X Jalwa
-#EXTGRP:Entertainment
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:0,Mastiii
 #EXTGRP:Entertainment
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/eef95ee1-8f3e-48c3-9331-c6b297ed01d8/0.m3u8
-#EXTINF:0,Kadak Hits
-#EXTGRP:Entertainment
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:0,Dil Se
-#EXTGRP:Entertainment
-https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0,VH1 Italia
 #EXTGRP:Entertainment
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0,Ocko Expres
 #EXTGRP:Entertainment
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:0,Radio m2o
-#EXTGRP:Entertainment
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0,V2Beat
 #EXTGRP:Entertainment
 https://de1se01.v2beat.live/playlist.m3u8
@@ -353,24 +290,3 @@ http://logo.univisiontv.xyz:8080/live/Digi667457/Digi667457/1553.m3u8?token=TRAO
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sky Sports
-#EXTGRP:Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:0,Willow Cricket
-#EXTGRP:Sports
-http://103.145.12.71:8070/live/asadmanzur/39e379b23d/2372.m3u8?token=ShUNAEFcElxEDg1UXV0HX1EBDwEFAFZaVFMHVFZTA1FQVQAEBwAIAFAaGEZKTREDAFhpWAUVDwsFBlFOFRcSBkNoDAUQDhJeUQ4CRhUbFw8MUBQLURsXSV9VQVgVV1dSBAZHTRBRSBIDSloFVWYHAxdcVVRDDVtMWl1PQFgMPgdUWgQPVhYKRFYaGEZQShNEW1tDXQ0bF1tfRREDQwdDWRMCXFgEFhxEBVdBCk1LGkRbF3h9QxsXXE5FBgxECw4NEw1HDAFBCERKGl0XZksGFRVHU1AMUkcbDBNSQBtADAJJaAYOXFpVBRJRWwpKG1lEUAAGE00VWFZYWBcNRT0RClUVX0MGAwdXUxpJ
-#EXTINF:0,FOX 501
-#EXTGRP:Sports
-https://s1.123zcast.com:8100/hls/yt43.m3u8
-#EXTINF:0,FOX Sports News
-#EXTGRP:Sports
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8#EXTINF:0,Super Sport
-#EXTINF:0,Super Sport
-#EXTGRP:Sports
-http://89.187.179.134:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8?token=SBsLAhEJEF5EBw0DAQdWUlNQXQIEUFILBlRQUAsAWwsCWwABWgAAV1UUFBJLRUJRAFhmXlIQCgNXAFsYEEdLXEFmCgdAWxBRVhQUEkxYXVFDDwkbFEJZVkEKQQUKAgoLERVBBhoVVxYIV1RvXFRGXQJQGw1YR1xeTxIMWm1WXVRSVwdBWEMCRkoUUUNIEwpaFFlVGxRQWUYRURdREAgaCAcOUEFOQ1ELE1hMQkETChYjcRsbFFdIRgZeEF1dXBoDEVRQFlpDHkYPRWdCXUJERgRUVFJEEAoQUhJPFl9TQGZQVg0NBwJGDQlYSxICEwMDVBcVFVtdXlsXXxFrQltcGwkbUVZTUgNGGw==
-#EXTINF:0,ESPN
-#EXTGRP:Sports
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-rTMM1biVsiiBKebmTz7rLmDKOHn0tf_PlP_JYSd66NkNyvW0FjlXeLToZ1pSOxdxoQp0nsTkZve6X3YNb5iOA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:0,beIN Sports
-#EXTGRP:Sports
-https://live-ak.vimeocdn.com/exp=1661611994~acl=%2F632dcea1-6eef-4caf-9920-dc4a7fe465a6%2F%2A~hmac=4968319a416b31afaa9e038febcb9871ea7d7eda9cdf1c177b5b99f4674bef79/632dcea1-6eef-4caf-9920-dc4a7fe465a6/chunklist_b416000.m3u8
