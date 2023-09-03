@@ -4,13 +4,13 @@
 http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:Local
-http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
+http://103.162.136.103:25461/live/FAH/fah/98.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Local
-http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
+http://172.27.27.3:8088/hls/07_StarSports1.m3u8
 #EXTINF:0,BTV Chattogram
 #EXTGRP:Local
-http://172.27.27.3:8088/hls/05_SonySix.m3u8
+http://103.162.136.103:25461/live/FAH/fah/202.m3u8
 #EXTINF:0,ATN Bangla
 #EXTGRP:Local
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -259,31 +259,28 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
-http://172.27.27.3:8088/hls/07_StarSports1.m3u8
+http://103.162.136.103:25461/live/FAH/fah/215.m3u8
 #EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
-http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+http://103.162.136.103:25461/live/FAH/fah/216.m3u8
 #EXTINF:0,Star Sports 1
 #EXTGRP:Sports
-http://103.16.24.54:8080/channel1/index.m3u8
+http://103.162.136.103:25461/live/FAH/fah/218.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:Sports
-http://185.53.88.77:8070/live/asadmanzur/39e379b23d/3630.m3u8?token=ShUNAEFcElxEWgBRDgFbVgAMB1MAVFFfVAQFV1RXV1QID1IHBQ0EBAAaGEZKTREDAFhpWAUVDwoAAlNOFRcSBkNoDAUQDhJeUQ4CRhUbFw8MUBQLURsXSV9VQVgVUFNWCQFHTRBRSBIDSloFVWYHAxdcVVRDDVtMWl1PQFgMPgdUWgQPVhYKRFYaGEZQShNEW1tDXQ0bF1tfRREDQwdDWRMEV1AHFhxEBVdBCk1LGkRbF3h9QxsXXE5FBgxECw4NEw1HDAFBCERKGl0XZksGFRVHU1AMUkcbDBNSQBtADAJJaAYOXFpVBRJRWwpKG1lEUAAGE00VWFZYWBcNRT0RClUVX0MABwNQVRpJ
-#EXTINF:0,Star Sports 3
-#EXTGRP:Sports
-https://www.mediaserver.express/live/RV1AoezO/index.m3u8
+http://103.162.136.103:25461/live/FAH/fah/220.m3u8
 #EXTINF:0,Sony Sports TEN1
 #EXTGRP:Sports
-http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
+http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
 #EXTINF:0,Sony Sports TEN2
 #EXTGRP:Sports
-http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
+http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
 #EXTINF:0,Sony Sports TEN5
 #EXTGRP:Sports
-http://103.16.24.54:8080/channel7/index.m3u8
+http://172.27.27.3:8088/hls/05_SonySix.m3u8
 #EXTINF:0,TEN Sports
 #EXTGRP:Sports
-http://logo.univisiontv.xyz:8080/live/Digi667457/Digi667457/1553.m3u8?token=TRAOWEBQQAIaUAMCDFRSDwEDBgwHVlJbUlYKWAhWWQgPUAAOAl1QCFxHHUFLFhFSVFg9UVERDQkFBQoVE0ZLXERtD10RAkAJClEIUxpOQUNcWAcaDwMbGkBZXRsLEQsIBwVVGx8aB0BMAEMNWQ48U1BDC1tQEQ1WRVxVFRNcVmZSVwtYXVxAAhpVE08aCxBHFw8MTVlfGxpSWU1LUEddGwwQVQsDCUAUGgZeFlYWEU4XD0B6cREbGlVITVxfQFFWWBBcG14LFwAaSRMKSz0RUkZBEF1UXlJKEgobCRMfGlRXSjlaXFYMXVsRWAxWEUENFwRAFBdeWFZZRFZLbkNRXRQIRAgADFcaRQ==
+http://103.162.136.103:25461/live/FAH/fah/121.m3u8
 #EXTINF:0,PTV Sports
 #EXTGRP:Sports
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+http://103.162.136.103:25461/live/FAH/fah/123.m3u8
