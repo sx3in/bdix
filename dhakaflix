@@ -13,7 +13,7 @@ http://172.27.27.3:8088/hls/07_StarSports1.m3u8
 http://103.162.136.103:25461/live/FAH/fah/202.m3u8
 #EXTINF:0,ATN Bangla
 #EXTGRP:Local
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://8v1cc03lpt.gpcdn.net:443/afhbihbtaa/ATN_Bangla-1080p.m3u8
 #EXTINF:0,Channel I
 #EXTGRP:Local
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
@@ -28,7 +28,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF:0,Boishakhi TV
 #EXTGRP:Local
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+https://8v1cc03lpt.gpcdn.net:443/ohmkwfiiff/Boishakhi_TV-1080p.m3u8
 #EXTINF:0,Banglavision
 #EXTGRP:Local
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
@@ -40,7 +40,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0,ATN News
 #EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+https://8v1cc03lpt.gpcdn.net:443/qntmjrquxm/ATN_News-1080p.m3u8
 #EXTINF:0,Mohona TV
 #EXTGRP:Local
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -67,19 +67,19 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:0,Ekattor
 #EXTGRP:Local
-http://172.27.27.3:8088/hls/14_SonyMax.m3u8
+https://8v1cc03lpt.gpcdn.net:443/gmggbdoikn/Ekattor_TV-1080p.m3u8
 #EXTINF:0,Asian
 #EXTGRP:Local
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:0,SATV
 #EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+https://8v1cc03lpt.gpcdn.net:443/iiyirzqxrb/SA_TV-1080p.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:Local
 http://172.27.27.3:8088/hls/13_Colors.m3u8
 #EXTINF:0,Jamuna TV
 #EXTGRP:Local
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+https://8v1cc03lpt.gpcdn.net:443/sklpngjvxu/Jamuna_TV-1080p.m3u8
 #EXTINF:0,Deepto
 #EXTGRP:Local
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/playlist.m3u8
@@ -91,7 +91,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0,Bangla TV
 #EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+https://8v1cc03lpt.gpcdn.net:443/xncmeopkro/Bangla_TV-1080p.m3u8
 #EXTINF:0,Duronto TV
 #EXTGRP:Local
 http://172.27.27.3:8088/hls/11_StarGold.m3u8
@@ -109,7 +109,7 @@ http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 http://appcdn.jagobd.com:1933/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Ekhon
 #EXTGRP:Local
-http://172.27.27.3:8088/hls/08StarSports2.m3u8
+https://8v1cc03lpt.gpcdn.net:443/lofjixblkg/Ekhon-1080p.m3u8
 #EXTINF:0,Global Television
 #EXTGRP:Local
 http://172.27.27.3:8088/hls/16_SonySAB.m3u8
