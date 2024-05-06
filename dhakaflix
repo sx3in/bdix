@@ -136,7 +136,7 @@ http://103.16.24.54:8080/channel3/index.m3u8
 http://103.16.24.54:8080/channel3/index.m3u8
 #EXTINF:0,DD India
 #EXTGRP:Entertainment
-http://103.16.24.54:8080/channel3/index.m3u8
+https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:0,Zee HD
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
