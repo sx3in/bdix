@@ -158,7 +158,7 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,Zee Anmol
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0, Comedy Central HD
+#EXTINF:0,Comedy Central HD
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,Colors Infinity 
@@ -257,7 +257,7 @@ http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,Sony MAX2
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:0, Lotus Macau
+#EXTINF:0,Lotus Macau
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,Star Movies Select HD
@@ -335,7 +335,7 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:0,TLC HD World
 #EXTGRP:Infotainment
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:0, History TV
+#EXTINF:0,History TV
 #EXTGRP:Infotainment
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:0,Travel XP
@@ -388,7 +388,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0,Al Quran
 #EXTGRP:Religious
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:0,Al Sunnah
 #EXTGRP:Religious
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
