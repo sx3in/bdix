@@ -182,6 +182,9 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:0,Hum Sitarey World HD
 #EXTGRP:Entertainment
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:0,Star Life HD
+#EXTGRP:Entertainment
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
@@ -200,7 +203,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #EXTINF:0,CGTN
 #EXTGRP:News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0,TRT World
+#EXTINF:0,Zee News
 #EXTGRP:News
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:0,France 24
@@ -209,7 +212,7 @@ http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0,NDTV 24x7
 #EXTGRP:News
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
-#EXTINF:0,RT
+#EXTINF:0,Sky News
 #EXTGRP:News
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:0,CNA
@@ -347,9 +350,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:0,NDTV Good Times
 #EXTGRP:Infotainment
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
-#EXTINF:0,Star Life HD
-#EXTGRP:Entertainment
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:0,HUM Masala
 #EXTGRP:Infotainment
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
@@ -366,9 +366,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTGRP:Kids
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
 #EXTINF:0,Discovery Kids
-#EXTGRP:Kids
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0,Sonic
 #EXTGRP:Kids
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0,Nick
