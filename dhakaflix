@@ -103,7 +103,7 @@ http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Local
-https://live-cdn.tsports.com/live-02/master_1920.m3u8
+http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
@@ -127,31 +127,31 @@ http://103.16.24.54:8080/channel4/index.m3u8
 http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:Entertainment
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
-http://103.16.24.54:8080/channel3/index.m3u8
+http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0,Star Bharat
 #EXTGRP:Entertainment
-http://103.16.24.54:8080/channel3/index.m3u8
+http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0,DD India
 #EXTGRP:Entertainment
-https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:0,Zee HD
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,Sony HD
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
+http://103.120.172.74:5000
 #EXTINF:0,Sony SAB HD
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:0,Colors HD
 #EXTGRP:Entertainment
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:0,Zoom
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:0,&tv HD
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
@@ -187,7 +187,7 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:0,CNN
 #EXTGRP:News
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -220,7 +220,7 @@ https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0,Jalsha Movies
 #EXTGRP:Movies
-http://ranapk.ddns.net/hls/jalshamovies.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:0,Zee Bangla Cinema
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
@@ -232,7 +232,7 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://tv2.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:0,Sony PIX HD
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/star-movies.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:0,Star Gold
 #EXTGRP:Movies
 http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
