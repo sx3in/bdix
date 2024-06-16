@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,BTV HD
 #EXTGRP:Local
-http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
+http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:Local
 http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8
@@ -97,7 +97,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
 #EXTINF:0,Nagorik TV
 #EXTGRP:Local
-http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
+http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
 #EXTINF:0,Ananda TV
 #EXTGRP:Local
 https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
@@ -241,10 +241,10 @@ http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 #EXTINF:0,Zee Bollywood
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:0,Sony MAX
 #EXTGRP:Movies
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
@@ -253,13 +253,13 @@ http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,B4U Movies
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0,&pictures HD
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,Sony MAX2
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:0,Lotus Macau
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
@@ -268,52 +268,52 @@ http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 http://103.16.24.54:8080/channel2/index.m3u8
 #EXTINF:0,Star Sports HD 1
 #EXTGRP:Sports
-http://103.162.136.103:25461/live/FAH/fah/215.m3u8
+http://103.120.172.74:4700
 #EXTINF:0,Star Sports HD 2
 #EXTGRP:Sports
-http://103.162.136.103:25461/live/FAH/fah/216.m3u8
+http://103.120.172.74:4600
 #EXTINF:0,Star Sports 3
 #EXTGRP:Sports
-http://103.162.136.103:25461/live/FAH/fah/218.m3u8
+http://103.120.172.74:5500
 #EXTINF:0,Star Sports Select HD1
 #EXTGRP:Sports
 http://103.162.136.103:25461/live/FAH/fah/220.m3u8
 #EXTINF:0,Star Sports Select HD2
 #EXTGRP:Sports
-http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
+http://103.162.136.103:25461/live/FAH/fah/220.m3u8
 #EXTINF:0,Sony Sports TEN1
 #EXTGRP:Sports
-http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:0,Sony Sports TEN2
 #EXTGRP:Sports
-http://172.27.27.3:8088/hls/05_SonySix.m3u8
+http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:0,Sony Sports TEN3
 #EXTGRP:Sports
-http://103.162.136.103:25461/live/FAH/fah/121.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=102478&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:0,Sony Sports TEN5
 #EXTGRP:Sports
-http://103.162.136.103:25461/live/FAH/fah/123.m3u8
+http://121.91.61.106:8000/play/a03o/index.m3u8
 #EXTINF:0,Euro Sport
 #EXTGRP:Sports
-http://103.162.136.103:25461/live/FAH/fah/123.m3u8
+https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:0,MTV Beats
 #EXTGRP:Music
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0,Zing
 #EXTGRP:Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/eef95ee1-8f3e-48c3-9331-c6b297ed01d8/0.m3u8
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:0,Sangeet Bangla
 #EXTGRP:Music
-http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:0,Music India
 #EXTGRP:Music
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:0,VH1
 #EXTGRP:Music
 https://de1se01.v2beat.live/playlist.m3u8
