@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,BTV HD
+#EXTINF:0,BTV
 #EXTGRP:Local
 http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
 #EXTINF:0,BTV World
@@ -116,10 +116,13 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:0,Green TV
 #EXTGRP:Local
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:0,Star Jalsha HD
+#EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
 http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:0,Zee Bangla
+#EXTGRP:Entertainment
+http://103.16.24.54:8080/channel4/index.m3u8
+#EXTINF:0,Sun Bangla
 #EXTGRP:Entertainment
 http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:0,Colors Bangla
@@ -137,22 +140,19 @@ http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0,DD India
 #EXTGRP:Entertainment
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:0,Zee HD
+#EXTINF:0,Zee TV
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0,Sony HD
+#EXTINF:0,SET
 #EXTGRP:Entertainment
 http://103.120.172.74:5000
-#EXTINF:0,Sony SAB HD
+#EXTINF:0,Sony SAB
 #EXTGRP:Entertainment
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0,Colors HD
+#EXTINF:0,Colors
 #EXTGRP:Entertainment
 http://170.254.18.107/COLORS/index.m3u8
-#EXTINF:0,Zoom
-#EXTGRP:Entertainment
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-#EXTINF:0,&tv HD
+#EXTINF:0,&tv
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,Zee Anmol
@@ -164,40 +164,40 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,Colors Infinity 
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0,Zee Cafe HD
+#EXTINF:0,Zee Cafe
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0,KBS World HD
+#EXTINF:0,KBS World
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0,Arirang HD
+#EXTINF:0,Arirang
 #EXTGRP:Entertainment
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
-#EXTINF:0,TV5 MONDE
+#EXTINF:0,TV5MONDE
 #EXTGRP:Entertainment
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
-#EXTINF:0,Hum TV HD
+#EXTINF:0,Hum TV
 #EXTGRP:Entertainment
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:0,Hum Sitarey World HD
+#EXTINF:0,Hum Sitarey World
 #EXTGRP:Entertainment
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:0,Star Life HD
+#EXTINF:0,Colors Rishtey
 #EXTGRP:Entertainment
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:News
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:0,CNN
 #EXTGRP:News
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:0,Aljazeera HD
+#EXTINF:0,Aljazeera
 #EXTGRP:News
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,Deutsche Welle
 #EXTGRP:News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
-#EXTINF:0,NHK World
+#EXTINF:0,NHK
 #EXTGRP:News
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:0,CGTN
@@ -218,6 +218,9 @@ https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:0,CNA
 #EXTGRP:News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,News18
+#EXTGRP:News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0,Jalsha Movies
 #EXTGRP:Movies
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -227,10 +230,10 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:0,Colors Bangla Cinema
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
-#EXTINF:0,Star Movies HD
+#EXTINF:0,Star Movies
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/star-movies.m3u8
-#EXTINF:0,Sony PIX HD
+#EXTINF:0,Sony PIX
 #EXTGRP:Movies
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:0,Star Gold
@@ -254,7 +257,7 @@ http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,B4U Movies
 #EXTGRP:Movies
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:0,&pictures HD
+#EXTINF:0,&pictures
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:0,Sony MAX2
@@ -263,39 +266,45 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:0,Lotus Macau
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:0,Star Movies Select HD
+#EXTINF:0,Star Movies Select
 #EXTGRP:Movies
 http://103.16.24.54:8080/channel2/index.m3u8
-#EXTINF:0,Star Sports HD 1
+#EXTINF:0,Zee Classic
+#EXTGRP:Movies
+http://103.16.24.54:8080/channel2/index.m3u8
+#EXTINF:0,Star Sports 1
 #EXTGRP:Sports
 http://103.120.172.74:4700
-#EXTINF:0,Star Sports HD 2
+#EXTINF:0,Star Sports 2
 #EXTGRP:Sports
 http://103.120.172.74:4600
 #EXTINF:0,Star Sports 3
 #EXTGRP:Sports
 http://103.120.172.74:5500
-#EXTINF:0,Star Sports Select HD1
+#EXTINF:0,Star Sports Select 1
 #EXTGRP:Sports
 http://103.162.136.103:25461/live/FAH/fah/220.m3u8
-#EXTINF:0,Star Sports Select HD2
+#EXTINF:0,Star Sports Select 2
 #EXTGRP:Sports
 http://103.162.136.103:25461/live/FAH/fah/220.m3u8
-#EXTINF:0,Sony Sports TEN1
+#EXTINF:0,Sony Sports 1
 #EXTGRP:Sports
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
-#EXTINF:0,Sony Sports TEN2
+#EXTINF:0,Sony Sports 2
 #EXTGRP:Sports
 http://121.91.61.106:8000/play/a04h/index.m3u8
-#EXTINF:0,Sony Sports TEN3
+#EXTINF:0,Sony Sports 3
 #EXTGRP:Sports
 http://tv.cloudcdn.me/live.ts?channelId=102478&uid=4944&deviceMac=00:1A:79:94:98:FE
-#EXTINF:0,Sony Sports TEN5
+#EXTINF:0,Sony Sports 5
 #EXTGRP:Sports
 http://121.91.61.106:8000/play/a03o/index.m3u8
 #EXTINF:0,Euro Sport
 #EXTGRP:Sports
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:0,Zoom
+#EXTGRP:Music
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:0,B4U Music
 #EXTGRP:Music
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
@@ -335,7 +344,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:0,Food XP
 #EXTGRP:Infotainment
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:0,TLC HD World
+#EXTINF:0,TLC
 #EXTGRP:Infotainment
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:0,History TV
@@ -347,6 +356,9 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0,Sony BBC Earth
 #EXTGRP:Infotainment
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+#EXTINF:0,Star Life
+#EXTGRP:Infotainment
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:0,NDTV Good Times
 #EXTGRP:Infotainment
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
