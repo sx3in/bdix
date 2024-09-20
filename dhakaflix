@@ -4,13 +4,13 @@
 http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:Local
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Local
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,BTV Chattogram
 #EXTGRP:Local
-http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:0,ATN Bangla
 #EXTGRP:Local
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -22,7 +22,7 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:0,NTV
 #EXTGRP:Local
-https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:0,RTV
 #EXTGRP:Local
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
