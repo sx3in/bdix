@@ -310,7 +310,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Music
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+https://30a-tv.com/music.m3u8
 #EXTINF:0,MTV Beats
 #EXTGRP:Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
@@ -325,7 +325,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:0,VH1
 #EXTGRP:Music
-https://de1se01.v2beat.live/playlist.m3u8
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Infotainment
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
