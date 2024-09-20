@@ -70,25 +70,25 @@ http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:0,Asian
 #EXTGRP:Local
-https://mtlivestream.site/asian/ytlive/index.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:0,SATV
 #EXTGRP:Local
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:Local
 http://cdn01.palki.tv/live/GaanBangla-M/index.fmp4.m3u8
 #EXTINF:0,Jamuna TV
 #EXTGRP:Local
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:0,Deepto
 #EXTGRP:Local
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:0,DBC 24/7 News
 #EXTGRP:Local
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 #EXTINF:0,News 24
 #EXTGRP:Local
-https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 #EXTINF:0,Bangla TV
 #EXTGRP:Local
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
@@ -97,13 +97,13 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
 #EXTINF:0,Nagorik TV
 #EXTGRP:Local
-http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
+http://172.16.172.182:8080/roarzone/bk/59/index.m3u8
 #EXTINF:0,Ananda TV
 #EXTGRP:Local
-https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:0,T Sports
 #EXTGRP:Local
-http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
+http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
 #EXTINF:0,Nexus Television
 #EXTGRP:Local
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
@@ -116,15 +116,15 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:0,Green TV
 #EXTGRP:Local
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:0,Star Jalsha
-#EXTGRP:Entertainment
-http://103.16.24.54:8080/channel5/index.m3u8
+#EXTINF:0,Channel S
+#EXTGRP:Local
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-http://103.16.24.54:8080/channel4/index.m3u8
+http://172.16.172.182:8080/roarzone/bk/102/index.m3u8
 #EXTINF:0,Sun Bangla
 #EXTGRP:Entertainment
-http://103.16.24.54:8080/channel4/index.m3u8
+http://172.16.172.182:8080/roarzone/bk/1/index.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
 http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
