@@ -7,10 +7,10 @@ http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:0,Sangsad Bangladesh
 #EXTGRP:Local
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+https://proximity-fire-team.xyz/XTRAA/m3u8.php/willowusa.m3u8
 #EXTINF:0,BTV Chattogram
 #EXTGRP:Local
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0,ATN Bangla
 #EXTGRP:Local
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -121,10 +121,10 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:0,Zee Bangla
 #EXTGRP:Entertainment
-http://172.16.172.182:8080/roarzone/bk/102/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:0,Sun Bangla
 #EXTGRP:Entertainment
-http://172.16.172.182:8080/roarzone/bk/1/index.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:Entertainment
 http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
@@ -133,7 +133,7 @@ http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:0,Star Jalsha
 #EXTGRP:Entertainment
-http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:Entertainment
 http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -142,7 +142,7 @@ http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:0,Zee TV
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:0,SET
 #EXTGRP:Entertainment
 http://103.120.172.74:5000
@@ -154,7 +154,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:0,&tv
 #EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:0,Zee Anmol
 #EXTGRP:Entertainment
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
@@ -169,13 +169,13 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0,KBS World
 #EXTGRP:News
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,Arirang
 #EXTGRP:News
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 #EXTINF:0,TV5MONDE
 #EXTGRP:News
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:0,Hum TV
 #EXTGRP:Entertainment
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
@@ -208,7 +208,7 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:0,France 24
 #EXTGRP:News
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:0,NDTV 24x7
 #EXTGRP:News
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
@@ -226,7 +226,7 @@ https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:0,Zee Bangla Cinema
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:0,Colors Bangla Cinema
 #EXTGRP:Movies
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
@@ -241,7 +241,7 @@ http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:
 http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
 #EXTINF:0,Zee Cinema
 #EXTGRP:Movies
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:Movies
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
